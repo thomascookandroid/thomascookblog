@@ -6,14 +6,21 @@
     <description>Recent content on Thomas Cook Blog</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 29 Apr 2026 20:11:07 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 20:11:33 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Neovim Setup</title>
+      <link>http://localhost:1313/posts/my-neovim-setup/</link>
+      <pubDate>Wed, 29 Apr 2026 20:11:33 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-neovim-setup/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Software Development</title>
       <link>http://localhost:1313/posts/software-development/</link>
       <pubDate>Wed, 29 Apr 2026 20:11:07 +0100</pubDate>
       <guid>http://localhost:1313/posts/software-development/</guid>
-      <description></description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/my-neovim-setup/&#34;&gt;My Neovim Setup&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Rpg Campaigns</title>
