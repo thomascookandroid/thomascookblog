@@ -3,8 +3,10 @@
     display: flex;
     list-style: none;
     padding: 0;
-    margin-bottom: 1rem; // Adjust spacing below the breadcrumbs
-    font-size: 0.9rem;    // Usually breadcrumbs are slightly smaller
+    margin-bottom: 1.5rem; // Adjust spacing below the breadcrumbs
+    font-size: 1.17rem;    // Usually breadcrumbs are slightly smaller
+    font-weight: bold;
+    line-height: 1.2;
   }
 
   li {
