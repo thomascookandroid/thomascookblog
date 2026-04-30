@@ -3,10 +3,17 @@ date = '2026-04-29T20:10:07+01:00'
 title = 'Jace Windu'
 +++
 
-# Jace Windu Character Sheet
+### About
+#### Home Planet
+Jewell
+
+#### Age
+42
+
+#### Species
+Human
 
 ### Stats
-
 | Stat | Value | DM  |
 | ---- | ----- | --- |
 | STR  | 5     | -1  |
@@ -17,38 +24,25 @@ title = 'Jace Windu'
 | SOC  | 5     | -1  |
 
 ### Skills
-
-Flyer 0
-Streetwise 0
-Drive 0
-Navigation 2
-Profession (Polymers) 1
-Carouse 1
-Art 0
-Deception 1
-Persuade 1
-Steward 0
-Electronics (Comms) 1
-Vacc Suit 0
-Recon 0
-Tactics (Military) 1
-Gunner (Turret) 1
-Gun Combat 0
+Flyer 0,
+Streetwise 0,
+Drive 0,
+Navigation 2,
+Profession (Polymers) 1,
+Carouse 1,
+Art 0,
+Deception 1,
+Persuade 1,
+Steward 0,
+Electronics (Comms) 1,
+Vacc Suit 0,
+Recon 0,
+Tactics (Military) 1,
+Gunner (Turret) 1,
+Gun Combat 0,
 Medic 1
 
-### About
-
-#### Home Planet
-Jewell
-
-#### Age
-42
-
-#### Species
-Human
-
 ### Relationships
-
 #### Rivals
 - None
 
@@ -63,21 +57,17 @@ Human
 - None
 
 ### Equipment
-
 #### Armour
-
 | Type | TL  | Rad | Protection | Options |
 | ---- | --- | --- | ---------- | ------- |
 | -    | -   | -   | -          | -       |
 
 #### Weapons
-
 | Type | TL  | Range | Damage | Mag | Traits |
 | ---- | --- | ----- | ------ | --- | ------ |
 | -    | -   | -     | -      | -   | -      |
 
 #### Items
-
 | Type | TL  | Notes |
 | ---- | --- | ----- |
 | -    | -   | -     |
@@ -88,13 +78,11 @@ Human
 | -    | -   | -      |
 
 ### Finances
-
 | Cash on Hand | Ship Shares | Living Costs | Ship Payments | Income | Debt |
 | --------------- | -------------- | ---------------- | ----------------- | ---------- | -------- |
 | -            | 1           | -            | -             | -      | -    |
 
 ### Career
-
 1. Went to uni, was the heart of the party and successfully graduated
 2. Became an Journalist and became part of the celebrity circle on Jewell, advanced to Free Lancer
 3. Lost job as public opinion turned against him due to the coverage of war on Esalin

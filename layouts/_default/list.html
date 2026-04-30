@@ -1,0 +1,29 @@
+{{ define "main" }}
+  <article>
+    {{ partial "breadcrumbs.html" . }}
+  </article>
+
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <!-- Only show this if there are sub-folders -->
+  {{ if .Sections }}
+    <h3>Folders</h3>
+    <ul>
+      {{ range .Sections }}
+        <li><strong>📁 <a href="{{ .RelPermalink }}">{{ .Title }}</a></strong></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  <!-- Only show "Articles" header if there are actual files in this specific folder -->
+  {{ if .RegularPages }}
+    <h3>Posts</h3>
+    <ul>
+      {{ range .RegularPages }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+{{ end }}
+

@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <ul>
+    <!-- First, list sub-folders (Sections) -->
+    {{ range .Sections }}
+      <li>
+        <strong>Folder: <a href="{{ .Permalink }}">{{ .Title }}</a></strong>
+      </li>
+    {{ end }}
+
+    <!-- Then, list individual pages (Pages) -->
+    {{ range .Pages }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}
+

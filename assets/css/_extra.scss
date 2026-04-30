@@ -1,0 +1,81 @@
+.breadcrumb {
+  ol {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin-bottom: 1rem; // Adjust spacing below the breadcrumbs
+    font-size: 0.9rem;    // Usually breadcrumbs are slightly smaller
+  }
+
+  li {
+    display: flex;
+    align-items: center;
+
+    // Add the separator » after every list item except the last one
+    &:not(:last-child)::after {
+      content: "»";
+      margin: 0 8px;
+      color: #666; // Grey out the separator slightly
+      text-decoration: none;
+    }
+  }
+
+  a {
+    color: $primary-color;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .active {
+    color: $lightest-color; // Make the current page look non-clickable
+    font-weight: bold;
+  }
+}
+
+/* Use a lighter version of the primary color for table headers (optional) */
+article th {
+    background-color: rgba($primary-color, 0.1); /* 10% opacity of the green */
+    border: 1px solid #999 !important;
+}
+
+/* Your existing table fix */
+article table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    margin: 2rem 0 !important;
+    border: 1px solid #999 !important;
+}
+
+article td {
+    border: 1px solid #999 !important;
+    padding: 12px 15px !important;
+}
+
+/* Tighten spacing for H3 and smaller headings */
+article h3 {
+    margin-bottom: 0.1rem!important; /* Reduces the gap beneath */
+    margin-top: 2.0rem !important;    /* Keeps a nice gap above from previous text */
+}
+
+article h4 {
+    margin-bottom: 0.0rem!important;
+    margin-top: 0.0rem!important;
+}
+
+/* Optional: If you want the text even closer, you can target the next paragraph */
+article h3 + p, 
+article h4 + p, 
+article h5 + p {
+    margin-top: 0 !important;
+}
+
+ul, ol {
+  margin-top: 0.0rem!important; // Adjust this value to your liking (e.g., 0, 4px, 0.25rem)
+  
+  li:first-child {
+    padding-top: 0!important; // Ensures the first item itself doesn't have extra top padding
+  }
+}

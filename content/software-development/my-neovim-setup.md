@@ -21,7 +21,7 @@ This time round, WSL is a thing (or maybe it was a thing before but I just didn'
 
 Fortunately, I've came across this [Nvim Kickstart](https://github.com/nvim-lua/kickstart.nvim) which basically does a lot of the donkey work I did last time automatically with a 1 liner, nice!
 
-So I did that, after fettling some dependency crap, and now I have Neovim setup with some nice plugins managed by Lazy:
+So I did that and, after fettling some dependency issues, I now have Neovim setup with some nice plugins managed by Lazy:
 
 ![Lazy Plugins](/images/nvim-lazy.png "Neovim Lazy")
 
