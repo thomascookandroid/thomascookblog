@@ -1,0 +1,8 @@
+{
+  "name": "thomascookblog",
+  "version": "0.0.1",
+  "author": "Thomas Cook <thomascookandroid@outlook.com> (https://github.com/thomascookandroid/thomascookblog)",
+  "dependencies": {
+    "hugo": "0.161.1"
+  }
+}
