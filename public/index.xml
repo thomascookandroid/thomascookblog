@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas Cook Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:38979/</link>
     <description>Recent content on Thomas Cook Blog</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Wed, 29 Apr 2026 20:11:43 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:38979/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Markdown Bible</title>
-      <link>http://localhost:1313/posts/software-development/hugo-markdown-bible/</link>
+      <link>http://localhost:38979/posts/hugo-markdown-bible/</link>
       <pubDate>Wed, 29 Apr 2026 20:11:43 +0100</pubDate>
-      <guid>http://localhost:1313/posts/software-development/hugo-markdown-bible/</guid>
+      <guid>http://localhost:38979/posts/hugo-markdown-bible/</guid>
       <description>&lt;h1 id=&#34;headers&#34;&gt;Headers&lt;/h1&gt;&#xA;&lt;h1 id=&#34;h1&#34;&gt;H1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;h2&#34;&gt;H2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;h3&#34;&gt;H3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;h4&#34;&gt;H4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;h5&#34;&gt;H5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;h6&#34;&gt;H6&lt;/h6&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bold&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;Italic&lt;/em&gt;&lt;br&gt;&#xA;&lt;del&gt;Strikethrough&lt;/del&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;lists&#34;&gt;Lists&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;First item&lt;/li&gt;&#xA;&lt;li&gt;Second item&lt;/li&gt;&#xA;&lt;li&gt;Third item&#xA;&lt;ol&gt;&#xA;&lt;li&gt;First sub item&lt;/li&gt;&#xA;&lt;li&gt;Second sub item&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;First item&lt;/li&gt;&#xA;&lt;li&gt;Second item&lt;/li&gt;&#xA;&lt;li&gt;Third item&#xA;&lt;ul&gt;&#xA;&lt;li&gt;First sub item&lt;/li&gt;&#xA;&lt;li&gt;Second sub item&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.google.com&#34;&gt;I&amp;rsquo;m an inline-style link (Google)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../&#34;&gt;I&amp;rsquo;m a relative reference to a repository file (home page)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;URLs and URLs in angle brackets will automatically get turned into links.&#xA;&lt;a href=&#34;http://www.example.com&#34;&gt;http://www.example.com&lt;/a&gt; or &lt;a href=&#34;http://www.example.com&#34;&gt;http://www.example.com&lt;/a&gt; and sometimes&#xA;example.com (but not on Github, for example).&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Neovim Setup</title>
-      <link>http://localhost:1313/posts/software-development/my-neovim-setup/</link>
+      <link>http://localhost:38979/posts/my-neovim-setup/</link>
       <pubDate>Wed, 29 Apr 2026 20:11:33 +0100</pubDate>
-      <guid>http://localhost:1313/posts/software-development/my-neovim-setup/</guid>
+      <guid>http://localhost:38979/posts/my-neovim-setup/</guid>
       <description>&lt;h1 id=&#34;what-the-heck-even-is-neovim&#34;&gt;What the heck even is Neovim?&lt;/h1&gt;&#xA;&lt;p&gt;I found about about Vim and Neovim through the Primeagen Youtube channel. Vim itself is an old text editor, and it works on the concept of buffers and various shortcuts called &amp;ldquo;motions&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;I was intrigued as I saw Primeagen doing some really cool stuff with it, using sequences of motions to do complicated edits on files which would normally require the use of a mouse and/or some scripting.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Software Development</title>
-      <link>http://localhost:1313/posts/software-development/</link>
-      <pubDate>Wed, 29 Apr 2026 20:11:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/software-development/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../software-development/my-neovim-setup.md&#34;&gt;My Neovim Setup&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <title>Jace Windu</title>
+      <link>http://localhost:38979/posts/traveller-campaign-session-0/</link>
+      <pubDate>Wed, 29 Apr 2026 20:10:07 +0100</pubDate>
+      <guid>http://localhost:38979/posts/traveller-campaign-session-0/</guid>
+      <description>&lt;h1 id=&#34;jace-windu-character-sheet&#34;&gt;Jace Windu Character Sheet&lt;/h1&gt;&#xA;&lt;h3 id=&#34;stats&#34;&gt;Stats&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Stat&lt;/th&gt;&#xA;          &lt;th&gt;Value&lt;/th&gt;&#xA;          &lt;th&gt;DM&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;STR&lt;/td&gt;&#xA;          &lt;td&gt;5&lt;/td&gt;&#xA;          &lt;td&gt;-1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;DEX&lt;/td&gt;&#xA;          &lt;td&gt;13&lt;/td&gt;&#xA;          &lt;td&gt;+2&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;END&lt;/td&gt;&#xA;          &lt;td&gt;5&lt;/td&gt;&#xA;          &lt;td&gt;-1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;INT&lt;/td&gt;&#xA;          &lt;td&gt;6&lt;/td&gt;&#xA;          &lt;td&gt;+0&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;EDU&lt;/td&gt;&#xA;          &lt;td&gt;9&lt;/td&gt;&#xA;          &lt;td&gt;+1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;SOC&lt;/td&gt;&#xA;          &lt;td&gt;5&lt;/td&gt;&#xA;          &lt;td&gt;-1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h3 id=&#34;skills&#34;&gt;Skills&lt;/h3&gt;&#xA;&lt;p&gt;Flyer 0&#xA;Streetwise 0&#xA;Drive 0&#xA;Navigation 2&#xA;Profession (Polymers) 1&#xA;Carouse 1&#xA;Art 0&#xA;Deception 1&#xA;Persuade 1&#xA;Steward 0&#xA;Electronics (Comms) 1&#xA;Vacc Suit 0&#xA;Recon 0&#xA;Tactics (Military) 1&#xA;Gunner (Turret) 1&#xA;Gun Combat 0&#xA;Medic 1&lt;/p&gt;&#xA;&lt;h3 id=&#34;about&#34;&gt;About&lt;/h3&gt;&#xA;&lt;h4 id=&#34;home-planet&#34;&gt;Home Planet&lt;/h4&gt;&#xA;&lt;p&gt;Jewell&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rpg Campaigns</title>
-      <link>http://localhost:1313/posts/rpg-campaigns/</link>
+      <link>http://localhost:38979/posts/rpg-campaigns/</link>
       <pubDate>Wed, 29 Apr 2026 20:10:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/rpg-campaigns/</guid>
+      <guid>http://localhost:38979/posts/rpg-campaigns/</guid>
       <description></description>
     </item>
   </channel>

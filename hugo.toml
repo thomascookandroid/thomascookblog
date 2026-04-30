@@ -2,3 +2,7 @@ baseURL = 'https://thomascookblog.co.uk/'
 locale = 'en-uk'
 title = 'Thomas Cook Blog'
 theme = 'm10c'
+
+[params]
+    description = "I'm an Android Developer by day, but enjoy dabbling with other stacks. I also enjoy playing TTRPG games solo and writing up my adventures for other people to read about."
+    avatar = "images/runswick-bay.jpg"
