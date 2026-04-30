@@ -14,16 +14,28 @@
     <loc>http://localhost:1313/software-development/my-neovim-setup/</loc>
     <lastmod>2026-04-29T20:11:33+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rpg-campaigns/jace-windu/</loc>
+    <loc>http://localhost:1313/rpg-campaigns/traveller/player-characters/jace-windu/</loc>
     <lastmod>2026-04-29T20:10:07+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/rpg-campaigns/</loc>
     <lastmod>2026-04-29T20:10:07+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/rpg-campaigns/traveller/</loc>
+    <lastmod>2026-04-29T20:10:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rpg-campaigns/traveller/player-characters/</loc>
+    <lastmod>2026-04-29T20:10:07+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpg-campaigns/ose/</loc>
   </url><url>
     <loc>http://localhost:1313/renovations/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpg-campaigns/traveller/session-logs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpg-campaigns/umerica/</loc>
   </url>
 </urlset>
