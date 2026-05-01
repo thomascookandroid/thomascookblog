@@ -20,5 +20,5 @@ Then, the old airing cupboard was built by a chimp, so I rebuilt that solid too.
 Here is a gif showing the finished job
 
 #### Bedroom Finished
-![Bedroom 3](https://drive.google.com/file/d/1GlfL9gywVNx9Kq0Tx5qEGW5vKiskYAba/view?usp=)
+![Bedroom 3](https://drive.google.com/file/d/1gx4Tux1_QDa5Mm58H74IkOZ_y3-xmdIn/view?usp=drive_link)
 
