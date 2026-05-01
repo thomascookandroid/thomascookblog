@@ -14,35 +14,69 @@
     <loc>http://localhost:1313/software-development/my-neovim-setup/</loc>
     <lastmod>2026-04-29T20:11:33+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/software-development/bathbot/</loc>
+    <lastmod>2026-04-29T20:10:07+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/renovations/bathroom/bathroom/</loc>
     <lastmod>2026-04-29T20:10:07+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/renovations/bedroom/bedroom/</loc>
     <lastmod>2026-04-29T20:10:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rpg-campaigns/traveller/player-characters/jace-windu/</loc>
+    <loc>http://localhost:1313/rpgs/traveller/player-characters/jace-windu/</loc>
+    <lastmod>2026-04-29T20:10:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/software-development/meta-balls/</loc>
+    <lastmod>2026-04-29T20:10:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/renovations/nursery/nursery/</loc>
     <lastmod>2026-04-29T20:10:07+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/renovations/</loc>
     <lastmod>2026-04-29T20:10:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rpg-campaigns/</loc>
+    <loc>http://localhost:1313/rpgs/</loc>
     <lastmod>2026-04-29T20:10:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rpg-campaigns/traveller/</loc>
+    <loc>http://localhost:1313/software-development/screeps/</loc>
     <lastmod>2026-04-29T20:10:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rpg-campaigns/traveller/player-characters/</loc>
+    <loc>http://localhost:1313/rpgs/traveller/</loc>
     <lastmod>2026-04-29T20:10:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/traveller/player-characters/</loc>
+    <lastmod>2026-04-29T20:10:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fishing/blythe/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/rpg-campaigns/ose/</loc>
+    <loc>http://localhost:1313/fishing/filey-brigg/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fishing/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/umerica/player-characters/lou/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/umerica/player-characters/margot/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/ose/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/umerica/player-characters/ray/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fishing/scotland/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/umerica/session-logs/session-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/umerica/session-logs/session-2/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/rpg-campaigns/traveller/session-logs/</loc>
+    <loc>http://localhost:1313/rpgs/traveller/session-logs/</loc>
   </url><url>
-    <loc>http://localhost:1313/rpg-campaigns/umerica/</loc>
+    <loc>http://localhost:1313/rpgs/umerica/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/umerica/player-characters/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/umerica/session-logs/</loc>
   </url>
 </urlset>

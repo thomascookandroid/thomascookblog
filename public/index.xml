@@ -23,6 +23,13 @@
       <description>&lt;h1 id=&#34;what-the-heck-even-is-neovim&#34;&gt;What the heck even is Neovim?&lt;/h1&gt;&#xA;&lt;p&gt;I found about about Vim and Neovim through the Primeagen Youtube channel. Vim itself is an old text editor, and it works on the concept of buffers and various shortcuts called &amp;ldquo;motions&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;I was intrigued as I saw Primeagen doing some really cool stuff with it, using sequences of motions to do complicated edits on files which would normally require the use of a mouse and/or some scripting.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Bath Bot</title>
+      <link>http://localhost:1313/software-development/bathbot/</link>
+      <pubDate>Wed, 29 Apr 2026 20:10:07 +0100</pubDate>
+      <guid>http://localhost:1313/software-development/bathbot/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Bathroom Renovations</title>
       <link>http://localhost:1313/renovations/bathroom/bathroom/</link>
       <pubDate>Wed, 29 Apr 2026 20:10:07 +0100</pubDate>
@@ -34,14 +41,91 @@
       <link>http://localhost:1313/renovations/bedroom/bedroom/</link>
       <pubDate>Wed, 29 Apr 2026 20:10:07 +0100</pubDate>
       <guid>http://localhost:1313/renovations/bedroom/bedroom/</guid>
-      <description>&lt;p&gt;The bedroom was the fourth room I tackled, after the kids nursery/office space.&lt;/p&gt;&#xA;&lt;p&gt;Here is hat it looked like before:&lt;/p&gt;&#xA;&lt;h4 id=&#34;bedroom-before-1&#34;&gt;Bedroom Before 1&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/bedroom-1.jpg&#34; &#xA;     alt=&#34;Bedroom 1&#34; &#xA;      title=&#34;Bedroom 1&#34;  &#xA;     loading=&#34;lazy&#34; /&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;h4 id=&#34;bedroom-before-2&#34;&gt;Bedroom Before 2&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/bedroom-2.jpg&#34; &#xA;     alt=&#34;Bedroom 2&#34; &#xA;      title=&#34;Bedroom 2&#34;  &#xA;     loading=&#34;lazy&#34; /&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;What I did in this room is ripped all the skirting off and replace with nice new pine skirting which is screwed into the brickwork (belt and braces boys!), I then fixed a load of broken floorboards (this place was built in 1880, so it&amp;rsquo;s old and rickety) and laid down a 6mm ply floor skin across the entire floor to create a more even feel underfoot and to help spread loads a bit (maybe wishful thinking hah).&lt;/p&gt;</description>
+      <description>&lt;p&gt;The bedroom was the fourth room I tackled, after the kids nursery/office space.&lt;/p&gt;&#xA;&lt;p&gt;Here is what it looked like before:&lt;/p&gt;&#xA;&lt;h4 id=&#34;bedroom-before-1&#34;&gt;Bedroom Before 1&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/d/15L4cTNxpxJ5w73dJ4HVmlIwxk-u6pyGi&#34; &#xA;     alt=&#34;Bedroom 1&#34; &#xA;      &#xA;     loading=&#34;lazy&#34; /&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;h4 id=&#34;bedroom-before-2&#34;&gt;Bedroom Before 2&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/d/1-ziAhmqWR_h4gJh00NGZbOPm72yx5YJd&#34; &#xA;     alt=&#34;Bedroom 2&#34; &#xA;      &#xA;     loading=&#34;lazy&#34; /&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;What I did in this room is ripped all the skirting off and replace with nice new pine skirting which is screwed into the brickwork (belt and braces boys!), I then fixed a load of broken floorboards (this place was built in 1880, so it&amp;rsquo;s old and rickety) and laid down a 6mm ply floor skin across the entire floor to create a more even feel underfoot and to help spread loads a bit (maybe wishful thinking hah).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jace Windu</title>
-      <link>http://localhost:1313/rpg-campaigns/traveller/player-characters/jace-windu/</link>
+      <link>http://localhost:1313/rpgs/traveller/player-characters/jace-windu/</link>
       <pubDate>Wed, 29 Apr 2026 20:10:07 +0100</pubDate>
-      <guid>http://localhost:1313/rpg-campaigns/traveller/player-characters/jace-windu/</guid>
+      <guid>http://localhost:1313/rpgs/traveller/player-characters/jace-windu/</guid>
       <description>&lt;h3 id=&#34;about&#34;&gt;About&lt;/h3&gt;&#xA;&lt;h4 id=&#34;home-planet&#34;&gt;Home Planet&lt;/h4&gt;&#xA;&lt;p&gt;Jewell&lt;/p&gt;&#xA;&lt;h4 id=&#34;age&#34;&gt;Age&lt;/h4&gt;&#xA;&lt;p&gt;42&lt;/p&gt;&#xA;&lt;h4 id=&#34;species&#34;&gt;Species&lt;/h4&gt;&#xA;&lt;p&gt;Human&lt;/p&gt;&#xA;&lt;h3 id=&#34;stats&#34;&gt;Stats&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Stat&lt;/th&gt;&#xA;          &lt;th&gt;Value&lt;/th&gt;&#xA;          &lt;th&gt;DM&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;STR&lt;/td&gt;&#xA;          &lt;td&gt;5&lt;/td&gt;&#xA;          &lt;td&gt;-1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;DEX&lt;/td&gt;&#xA;          &lt;td&gt;13&lt;/td&gt;&#xA;          &lt;td&gt;+2&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;END&lt;/td&gt;&#xA;          &lt;td&gt;5&lt;/td&gt;&#xA;          &lt;td&gt;-1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;INT&lt;/td&gt;&#xA;          &lt;td&gt;6&lt;/td&gt;&#xA;          &lt;td&gt;+0&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;EDU&lt;/td&gt;&#xA;          &lt;td&gt;9&lt;/td&gt;&#xA;          &lt;td&gt;+1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;SOC&lt;/td&gt;&#xA;          &lt;td&gt;5&lt;/td&gt;&#xA;          &lt;td&gt;-1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h3 id=&#34;skills&#34;&gt;Skills&lt;/h3&gt;&#xA;&lt;p&gt;Flyer 0,&#xA;Streetwise 0,&#xA;Drive 0,&#xA;Navigation 2,&#xA;Profession (Polymers) 1,&#xA;Carouse 1,&#xA;Art 0,&#xA;Deception 1,&#xA;Persuade 1,&#xA;Steward 0,&#xA;Electronics (Comms) 1,&#xA;Vacc Suit 0,&#xA;Recon 0,&#xA;Tactics (Military) 1,&#xA;Gunner (Turret) 1,&#xA;Gun Combat 0,&#xA;Medic 1&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta Balls</title>
+      <link>http://localhost:1313/software-development/meta-balls/</link>
+      <pubDate>Wed, 29 Apr 2026 20:10:07 +0100</pubDate>
+      <guid>http://localhost:1313/software-development/meta-balls/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nursery Renovations</title>
+      <link>http://localhost:1313/renovations/nursery/nursery/</link>
+      <pubDate>Wed, 29 Apr 2026 20:10:07 +0100</pubDate>
+      <guid>http://localhost:1313/renovations/nursery/nursery/</guid>
+      <description>&lt;p&gt;The nursery was the third room I tackled, after the new bathroom.&lt;/p&gt;&#xA;&lt;p&gt;So, this &lt;em&gt;used&lt;/em&gt; to be the old bathroom, but as I mentioned in the new bathroom post, that was a profoundly stupid idea because it&amp;rsquo;s in the middle of the house, with no windows, so didn&amp;rsquo;t get much air flow, and therefore, was prone to getting moldy, because you know, bathroom get moist&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;So, first job in here was smashing all the tiles off the walls, lifting out the toilet, bath and shower. I found out here that the previous owners had plumbed the toilet waste in the shower waste, literally the same pipe&amp;hellip; and, the pipe had no drop on it, so shit (literally) was sitting in that pipe going fetid, and that pipe was connected to the shower waste, so when you took a shower, the room filled up with shit stink&amp;hellip; Probably highly illegal and yada yada, whatever, it&amp;rsquo;s all moot now coz I ripped the fucker out and threw it in a skip lol.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Screeps</title>
+      <link>http://localhost:1313/software-development/screeps/</link>
+      <pubDate>Wed, 29 Apr 2026 20:10:07 +0100</pubDate>
+      <guid>http://localhost:1313/software-development/screeps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blythe Fishing Sessions</title>
+      <link>http://localhost:1313/fishing/blythe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fishing/blythe/</guid>
+      <description>&lt;p&gt;Blythe is a few miles north of Newcastle, it&amp;rsquo;s a port town, bit run down, but nice enough. The pier is very long so if you go to the end of it you can fish into fairly deep waters.&lt;/p&gt;&#xA;&lt;p&gt;In summer you&amp;rsquo;ll find it quite busy with people fishing for Mackeral, and in winter it&amp;rsquo;s quieter and you just get the hardcore types fishing for codling.&lt;/p&gt;&#xA;&lt;p&gt;In our trips there, we caught:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Filey Brigg Fishing Sessions</title>
+      <link>http://localhost:1313/fishing/filey-brigg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fishing/filey-brigg/</guid>
+      <description>&lt;p&gt;Filey Brigg is a long rocky shelf down the back of the tall cliffs near Filey.&lt;/p&gt;&#xA;&lt;p&gt;You go from the campsite up to the top of the spine splitting the bay and the north sea, then dip to the left down rugged grass cliffside to what we liked to call the &amp;ldquo;Ladder of Doom&amp;rdquo; - a 30ft talll rusty metal ladder bolted into the side of the cliff face leading you down to the rock shelf below.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lou</title>
+      <link>http://localhost:1313/rpgs/umerica/player-characters/lou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rpgs/umerica/player-characters/lou/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Margot</title>
+      <link>http://localhost:1313/rpgs/umerica/player-characters/margot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rpgs/umerica/player-characters/margot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ray</title>
+      <link>http://localhost:1313/rpgs/umerica/player-characters/ray/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rpgs/umerica/player-characters/ray/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scotland Fishing Sessions</title>
+      <link>http://localhost:1313/fishing/scotland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fishing/scotland/</guid>
+      <description>&lt;p&gt;In summer of 2021 I took a solo trip up to the Mull of Galloway in Scotland to hit up some fishing on the west coast as I&amp;rsquo;d heard there were more species over there that you can&amp;rsquo;t really get on the north east coast.&lt;/p&gt;&#xA;&lt;p&gt;I stayed in a small town called Stranraer, it was pretty dreary, but the surrroundings were nice. I blanked at the loch on the day of arrival, but on the following day caught dogfish (a small shark species) off a rocky beach on the western peninsula.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Session 1</title>
+      <link>http://localhost:1313/rpgs/umerica/session-logs/session-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rpgs/umerica/session-logs/session-1/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;In classic DCC style, I ran a funnel where I rolled up 12 level 0 characters and ran them through  a gauntlet dungeon, and the survivors levelled up to level 1&lt;/li&gt;&#xA;&lt;li&gt;Umerica is a gonzo post apocolyptic America setting, imagine mad max crossed with Borderlands, it&amp;rsquo;s pretty goofy. The gods are things like Elmo, the Puppet Host of Eternal Suffering, and Santa the God of GIving&lt;/li&gt;&#xA;&lt;li&gt;I was amused by the idea of the Santa God, ostensibly he&amp;rsquo;s a lawful god of Giving Presents, but in reality he employs killer reindire (humanoid reindeers who mercileslly follow any orders they are given) and the Santa cult treat &amp;ldquo;Evil Doers&amp;rdquo; very badly&lt;/li&gt;&#xA;&lt;li&gt;So I decided that my 12 initial PC&amp;rsquo;s were basically &amp;ldquo;Naughty People&amp;rdquo; who had been rounded up by the Santa Cult and made to work as &amp;ldquo;Naughty Elves&amp;rdquo; in a santa workshop as indentured servents or, basically, slaves, producing gifts for Santa to spread joy throughout Umerica&lt;/li&gt;&#xA;&lt;li&gt;On the day the adventure starts however, Santa HQ has decided that the particular branch the PCs are &amp;ldquo;employed&amp;rdquo; at isn&amp;rsquo;t meeeting KPI&amp;rsquo;s and will be shut down, meaning the liquidation of any and all &amp;ldquo;Elf Assets&amp;rdquo; at the site&lt;/li&gt;&#xA;&lt;li&gt;Upon hearing the rumours, the PCs decide to stage a revolt. When 3 Reindire come into the workshop to escort the &amp;ldquo;Naughty Elves&amp;rdquo; (our PCs) to the &amp;ldquo;Debriefing Room&amp;rdquo; (incinerator) our PCs take up arms and fight for their lives&lt;/li&gt;&#xA;&lt;li&gt;About 7 of the PCs died in that room, and the rest escaped, locking the Reindire in via the electronic lock on the outside wall, usually reserved for locking the Evles &lt;em&gt;in&lt;/em&gt; so they can&amp;rsquo;t escape&lt;/li&gt;&#xA;&lt;li&gt;Outside the workshop room, the PCs are confronted with a strange compound, about 150ft square, with several strange buildings surrounded by a tall wall with gaudy blinking LED Xmas lights and a singe roller steel door&lt;/li&gt;&#xA;&lt;li&gt;One of the PCs investigates the door in the compound wall, and upon trying to touch it finds it to be illusory, he is suddenly faceed with a 100ft drop to a desert below, and he can see a broken highway meandering out to a point on the horizon, the drop is far to big to fall from and survive, and there appeared to be no way to scale down the wall either&lt;/li&gt;&#xA;&lt;li&gt;Another of the PCs spies through a door on the building to the north side of the complex and sees shadowy figures inside praying at some kind of stone effigy of a fat man&lt;/li&gt;&#xA;&lt;li&gt;Suddenly, the door of that building opens and some Santa fanatics are surprised to find one of the &amp;ldquo;Elves&amp;rdquo; has escaped and was stooped over spying at them through the temple keyhole, yes, it turned out that building was some kind of Santa temple for Santa cultists&lt;/li&gt;&#xA;&lt;li&gt;The PCs tried to reason with the cultists, but they dind&amp;rsquo;t seem to be rational actors, and so a fight ensued&lt;/li&gt;&#xA;&lt;li&gt;3 more PCs died in this fight, and the remaining 4 managed to subdue one of the cultists and forced him to lead the PCs out of the compoun&lt;/li&gt;&#xA;&lt;li&gt;The cultist lead the PCs to an elevator in another building in the compound, one which was adorned like a seasonal gift shop, the PCs and the cultist got in the elevator and the cultist took them to another floor&lt;/li&gt;&#xA;&lt;li&gt;When the elevator doors opened, the PCs and the cultist found themselves in some sort of haloweeen themed haunted house. One of the PCs surmised this building must be some kind of mega mall with a floor for each consumerist seasonal festivity, but that was just a guess&lt;/li&gt;&#xA;&lt;li&gt;When the PCs exited the elevator, the doors jammed shut behind them. They were now trapped in the halloween floor until they found an exit&lt;/li&gt;&#xA;&lt;li&gt;The PCs got the sense they were being wathced through paintings in the walls, and indeed, one ofthe PCs stabbed through one of these paintings and heard a screech and drew blood. They heard scuttling in the wall cavities as if several creatures were within there moving about the building&amp;hellip;&lt;/li&gt;&#xA;&lt;li&gt;There were some puzzles that the PCs resolved, resulting in one of the PCs obtaining a stag head helmet and a sword&lt;/li&gt;&#xA;&lt;li&gt;Eventually the PCs came across another gift shop, this time though it was manned by a robot which hadn&amp;rsquo;t seen the PCs yet, on the other side of the gift shop was a door leading outside!&lt;/li&gt;&#xA;&lt;li&gt;The PCs discussed strategy and decided that making a dash for it would be the best bet, so they ran across the gift shop floor towards the exit!&lt;/li&gt;&#xA;&lt;li&gt;The robot upon seeing this activated some kind of protocol and began spraying the PCs with a gas, this gas killed 2 of the remaining PCS, and only 2 escaped with their lives&lt;/li&gt;&#xA;&lt;li&gt;The PCs now outside ran far from this place towards the highway they had spotted before, and then travelled northwards scavenging for food and water along the way&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Session 2</title>
+      <link>http://localhost:1313/rpgs/umerica/session-logs/session-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rpgs/umerica/session-logs/session-2/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
