@@ -23,11 +23,11 @@ Fortunately, I've came across this [Nvim Kickstart](https://github.com/nvim-lua/
 
 So I did that and, after fettling some dependency issues, I now have Neovim setup with some nice plugins managed by Lazy:
 
-![Lazy Plugins](/images/nvim-lazy.png "Neovim Lazy")
+![Lazy Plugins](https://drive.google.com/file/d/1dgYGL6AwkmwYhnLtaS0tol_9hvZluWyJ/view?usp=drive_link)
 
 Here's the file browser, which you access by typing leader > fb (for file browser):
  
-![Nvim File Browser](/images/nvim-fb.png "Neovim File Browser")
+![Nvim File Browser](https://drive.google.com/file/d/1orgZLxEg4SFSM6-vR8JZ1WKgN-2S9gcq/view?usp=drive_link)
 
 Another cool thing about Neovim I really like is that it has context sensitive keyboard shortcuts for literally everything! If you become proficient with it, you will never need to use a mouse again. Furthermore, Vim is installed on pretty much every Linux in the entire world, so with Vim skills, you will be able to interact with the file system and edit files like a wizard remotely without needing a GUI which I think is really neat as well, very 80's cyber hacker!
 
