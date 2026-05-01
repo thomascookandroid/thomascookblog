@@ -1,0 +1,26 @@
+---
+title: "Session 1"
+---
+
+- In classic DCC style, I ran a funnel where I rolled up 12 level 0 characters and ran them through  a gauntlet dungeon, and the survivors levelled up to level 1
+- Umerica is a gonzo post apocolyptic America setting, imagine mad max crossed with Borderlands, it's pretty goofy. The gods are things like Elmo, the Puppet Host of Eternal Suffering, and Santa the God of GIving
+- I was amused by the idea of the Santa God, ostensibly he's a lawful god of Giving Presents, but in reality he employs killer reindire (humanoid reindeers who mercileslly follow any orders they are given) and the Santa cult treat "Evil Doers" very badly
+- So I decided that my 12 initial PC's were basically "Naughty People" who had been rounded up by the Santa Cult and made to work as "Naughty Elves" in a santa workshop as indentured servents or, basically, slaves, producing gifts for Santa to spread joy throughout Umerica
+- On the day the adventure starts however, Santa HQ has decided that the particular branch the PCs are "employed" at isn't meeeting KPI's and will be shut down, meaning the liquidation of any and all "Elf Assets" at the site
+- Upon hearing the rumours, the PCs decide to stage a revolt. When 3 Reindire come into the workshop to escort the "Naughty Elves" (our PCs) to the "Debriefing Room" (incinerator) our PCs take up arms and fight for their lives
+- About 7 of the PCs died in that room, and the rest escaped, locking the Reindire in via the electronic lock on the outside wall, usually reserved for locking the Evles *in* so they can't escape 
+- Outside the workshop room, the PCs are confronted with a strange compound, about 150ft square, with several strange buildings surrounded by a tall wall with gaudy blinking LED Xmas lights and a singe roller steel door
+- One of the PCs investigates the door in the compound wall, and upon trying to touch it finds it to be illusory, he is suddenly faceed with a 100ft drop to a desert below, and he can see a broken highway meandering out to a point on the horizon, the drop is far to big to fall from and survive, and there appeared to be no way to scale down the wall either
+- Another of the PCs spies through a door on the building to the north side of the complex and sees shadowy figures inside praying at some kind of stone effigy of a fat man
+- Suddenly, the door of that building opens and some Santa fanatics are surprised to find one of the "Elves" has escaped and was stooped over spying at them through the temple keyhole, yes, it turned out that building was some kind of Santa temple for Santa cultists
+- The PCs tried to reason with the cultists, but they dind't seem to be rational actors, and so a fight ensued
+- 3 more PCs died in this fight, and the remaining 4 managed to subdue one of the cultists and forced him to lead the PCs out of the compoun
+- The cultist lead the PCs to an elevator in another building in the compound, one which was adorned like a seasonal gift shop, the PCs and the cultist got in the elevator and the cultist took them to another floor
+- When the elevator doors opened, the PCs and the cultist found themselves in some sort of haloweeen themed haunted house. One of the PCs surmised this building must be some kind of mega mall with a floor for each consumerist seasonal festivity, but that was just a guess
+- When the PCs exited the elevator, the doors jammed shut behind them. They were now trapped in the halloween floor until they found an exit
+- The PCs got the sense they were being wathced through paintings in the walls, and indeed, one ofthe PCs stabbed through one of these paintings and heard a screech and drew blood. They heard scuttling in the wall cavities as if several creatures were within there moving about the building...
+- There were some puzzles that the PCs resolved, resulting in one of the PCs obtaining a stag head helmet and a sword
+- Eventually the PCs came across another gift shop, this time though it was manned by a robot which hadn't seen the PCs yet, on the other side of the gift shop was a door leading outside!
+- The PCs discussed strategy and decided that making a dash for it would be the best bet, so they ran across the gift shop floor towards the exit!
+- The robot upon seeing this activated some kind of protocol and began spraying the PCs with a gas, this gas killed 2 of the remaining PCS, and only 2 escaped with their lives
+- The PCs now outside ran far from this place towards the highway they had spotted before, and then travelled northwards scavenging for food and water along the way...
