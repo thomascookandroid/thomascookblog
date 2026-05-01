@@ -1,0 +1,15 @@
+{{- $src := .Destination -}}
+
+{{/* Check if the URL is a Google Drive file link */}}
+{{- if (findRE `drive\.google\.com/file/d/` $src) -}}
+  {{/* Extract the File ID using regex */}}
+  {{- $id := index (findRE `[-\w]{25,}` $src) 0 -}}
+  {{/* Rewrite the source to the direct-view URL */}}
+  {{- $src = printf "https://lh3.googleusercontent.com/d/%s" $id -}}
+{{- end -}}
+
+<img src="{{ $src | safeURL }}" 
+     alt="{{ .Text }}" 
+     {{ with .Title }} title="{{ . }}" {{ end }} 
+     loading="lazy" />
+

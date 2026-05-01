@@ -13,6 +13,7 @@ So I took it upon myself to make a new bathroom in this room which used to be a 
 
 Here is some footage of what the bathroom area looked like just after I'd started the work:
 
+#### Bathroom Before
 ![Bathroom Before](https://drive.google.com/file/d/1ZqxzwbGSH71GQ0lm8xUxlFkAaauA9454/view?usp=drive_link)
 
 I chose to make the room slightly smaller than it was before, in order to increase the size of the soon to be new kids nursery in the middle of the house. To do this, I had to build a stud wall, which I chosen to put a window in too so light could come through a frosted glass plane into my future childs nursery, because I didn't want a mole kid. This stud wall had to then be tanked to stop moisture penetrating the plasterboard and studwork. 
@@ -24,19 +25,18 @@ I then installed a sink, toilet and bath and plumbed those in. The toilet waste 
 Here are some pics of the progress and the finished job.
 
 #### Bathroom 1
-![Bathroom 1](/images/bathroom-1.jpg "Bathroom 1")
+![Bathroom 1](https://drive.google.com/file/d/18w62sugmv5X9QtnJyoyn-d9JAAN4tjN2/view?usp=drive_link)
 
 #### Bathroom 2
-![Bathroom 2](/images/bathroom-2.jpg "Bathroom 2")
+![Bathroom 2](https://drive.google.com/file/d/17-3o7GODQMQ6U8eu8Fbh4B6rc1oAfAtK/view?usp=drive_link)
 
 #### Bathroom 3
-![Bathroom 3](/images/bathroom-3.jpg "Bathroom 3")
+![Bathroom 3](https://drive.google.com/file/d/1OelP7jXZS_h9q2a77lX_LbVCdlkD1z28/view?usp=rive_link)
 
 #### Bathroom 4
-![Bathroom 4](/images/bathroom-4.jpg "Bathroom 4")
+![Bathroom 4](https://drive.google.com/file/d/1ybNFnHZLKxejI8n5ai6vkZLrvGN0__N-/view?usp=drive_link)
 
 #### Finished Bathroom
-![Bathroom 5](/images/bathroom-5.jpg "Bathroom 5")
+![Bathroom 5](https://drive.google.com/file/d/1blCiVdz4ielhmohbl0bafHqXkmd5O4qR/view?usp=drive_link)
 
-
-It's amazing whatn cleaning up, caulking and painting can do!
+It's amazing what cleaning up, caulking and painting can do!
