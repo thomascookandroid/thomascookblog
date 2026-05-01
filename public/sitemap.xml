@@ -14,7 +14,16 @@
     <loc>http://localhost:1313/software-development/my-neovim-setup/</loc>
     <lastmod>2026-04-29T20:11:33+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/renovations/bathroom/bathroom/</loc>
+    <lastmod>2026-04-29T20:10:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/renovations/bedroom/bedroom/</loc>
+    <lastmod>2026-04-29T20:10:07+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/rpg-campaigns/traveller/player-characters/jace-windu/</loc>
+    <lastmod>2026-04-29T20:10:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/renovations/</loc>
     <lastmod>2026-04-29T20:10:07+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/rpg-campaigns/</loc>
@@ -29,8 +38,6 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/rpg-campaigns/ose/</loc>
-  </url><url>
-    <loc>http://localhost:1313/renovations/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
