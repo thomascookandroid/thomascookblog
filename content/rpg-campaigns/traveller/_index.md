@@ -1,5 +1,5 @@
 ---
-title: "Travelller"
+title: "Traveller"
 description: "Traveller"
 ---
 

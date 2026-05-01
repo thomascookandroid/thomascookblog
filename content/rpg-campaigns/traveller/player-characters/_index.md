@@ -1,5 +1,5 @@
 ---
-title: "Travelller Characters"
+title: "Traveller Characters"
 description: "Traveller Player Characters"
 ---
 
