@@ -8,10 +8,10 @@ The bedroom was the fourth room I tackled, after the kids nursery/office space.
 Here is hat it looked like before:
 
 #### Bedroom Before 1
-![Bedroom 1](/images/bedroom-1.jpg "Bedroom 1")
+![Bedroom 1](https://drive.google.com/file/d/15L4cTNxpxJ5w73dJ4HVmlIwxk-u6pyGi/view?usp=drive_link)
 
 #### Bedroom Before 2
-![Bedroom 2](/images/bedroom-2.jpg "Bedroom 2")
+![Bedroom 2](https://drive.google.com/file/d/1-ziAhmqWR_h4gJh00NGZbOPm72yx5YJd/view?usp=drive_link)
 
 What I did in this room is ripped all the skirting off and replace with nice new pine skirting which is screwed into the brickwork (belt and braces boys!), I then fixed a load of broken floorboards (this place was built in 1880, so it's old and rickety) and laid down a 6mm ply floor skin across the entire floor to create a more even feel underfoot and to help spread loads a bit (maybe wishful thinking hah).
 
@@ -19,9 +19,6 @@ Then, the old airing cupboard was built by a chimp, so I rebuilt that solid too.
 
 Here is a gif showing the finished job
 
-#### Bedroom Finished 1
-![Bedroom 3](/images/bedroom-3.jpg "Bedroom 3")
-
-#### Bedroom Finished 2
-![Bedroom 4](/images/bedroom-4.jpg "Bedroom 4")
+#### Bedroom Finished
+![Bedroom 4](https://drive.google.com/file/d/1GlfL9gywVNx9Kq0Tx5qEGW5vKiskYAba/view?usp=drive_link)
 
