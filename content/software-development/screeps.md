@@ -13,7 +13,7 @@ The API is fairly well documented, and it's relatively low level; it lets you qu
 
 It's been a couple years since I last touched my Screep bot, but I went fairly deep into it last time, implementing caching of calculated paths for optimisation, flood fill algorithms to determine the best build locations, manager classes to manage the colony, squad manager to manage squads of attacker Screeps.
 
-![Here](https://github.com/thomascookandroid/Screeps-AI/tree/develop/src) is my Screeps repository containing my Screeps AI in all it's glory.
+![Repository](https://github.com/thomascookandroid/Screeps-AI/tree/develop/src) is my Screeps repository containing my Screeps AI in all it's glory.
 
 Here's an implementation of an algorithm that finds the closest "valid" "cell" in a room to the supplied `position` where "valid" is with respect to the supplied heuristic.
 

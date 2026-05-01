@@ -5,7 +5,6 @@ title = 'Meta Balls'
 
 At Lush I was asked to work on something that was coined Bubble Nav, it looks like this:
 
-#### Bubbles
 ![Bubbles](https://drive.google.com/file/d/1uzEErv_Rl_yY4aQ_7Z8lxW8HdL1IiRE9/view?usp=drive_link)
 
 Obviously, as you can see, I managed to implement it. What you can't see that in image is that it is also fully animated. That view is dynamically generated at runtime, and is implemented using shaders. Well, actually, that's a bit of a leap, but I'll get into the details shortly. First, let me explain what is actually happening here at a conceptual level.
