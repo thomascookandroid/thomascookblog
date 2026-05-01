@@ -5,7 +5,7 @@ title = 'Bedroom Renovations'
 
 The bedroom was the fourth room I tackled, after the kids nursery/office space.
 
-Here is hat it looked like before:
+Here is what it looked like before:
 
 #### Bedroom Before 1
 ![Bedroom 1](https://drive.google.com/file/d/15L4cTNxpxJ5w73dJ4HVmlIwxk-u6pyGi/view?usp=drive_link)
@@ -17,8 +17,7 @@ What I did in this room is ripped all the skirting off and replace with nice new
 
 Then, the old airing cupboard was built by a chimp, so I rebuilt that solid too. After that, I ripped out the existing shelving either side of the chimney breast as it was built with OSB board, was open shelving and just generally looked like it was constructed by a dribbling moron. Next, I plastered the entire room and then after that I constructed bespoke built in cupboards either side of the chimney breast with built in compartments and clothes rails. Finallly I had to re-hand the radiator which I'd taken off in order to plaster the walll, plumb that back in and decorate the entire room. My wife chose the color and was also the one who decided we would "color wash" it from floor to ceiling. I'd have preferred to put a dado rail in and have the bottom third that blue and the top two thirds a cream color, but we have to choose our battles hah!
 
-Here is a gif showing the finished job
-
 #### Bedroom Finished
-![Bedroom 3](https://drive.google.com/file/d/1gx4Tux1_QDa5Mm58H74IkOZ_y3-xmdIn/view?usp=drive_link)
+![Bedroom 3](https://drive.google.com/file/d/1F-p0yTF7RjeVDxR-b4_8g8IMud1RY6Zj/view?usp=drive_link)
 
+![Bedroom 4](https://drive.google.com/file/d/1Wgeevyh-pmVY_YwurYfkE308KOYpJA7F/view?usp=drive_link)
