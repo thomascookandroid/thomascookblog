@@ -13,7 +13,7 @@ So I took it upon myself to make a new bathroom in this room which used to be a 
 
 Here is some footage of what the bathroom area looked like just after I'd started the work:
 
-![Bathroom Before](/images/bathroom-before.gif "Bathroom Before")
+![Bathroom Before](https://drive.google.com/file/d/1ZqxzwbGSH71GQ0lm8xUxlFkAaauA9454/view?usp=drive_link)
 
 I chose to make the room slightly smaller than it was before, in order to increase the size of the soon to be new kids nursery in the middle of the house. To do this, I had to build a stud wall, which I chosen to put a window in too so light could come through a frosted glass plane into my future childs nursery, because I didn't want a mole kid. This stud wall had to then be tanked to stop moisture penetrating the plasterboard and studwork. 
 
