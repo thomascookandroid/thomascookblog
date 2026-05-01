@@ -3,7 +3,7 @@ date = '2026-04-29T20:10:07+01:00'
 title = 'Bedroom Renovations'
 +++
 
-The bedroom was the fourth room I tackled, after the kids nursery/office space.
+The bedroom was the fourth room I tackled, after the [New Nursery](/renovations/nursery/nursery)
 
 Here is what it looked like before:
 

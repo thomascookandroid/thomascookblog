@@ -3,7 +3,7 @@ date = '2026-04-29T20:10:07+01:00'
 title = 'Nursery Renovations'
 +++
 
-The nursery was the third room I tackled, after the new bathroom.
+The nursery was the third room I tackled, after the [New Bathroom](/renovations/bathroom/bathroom)
 
 So, this *used* to be the old bathroom, but as I mentioned in the new bathroom post, that was a profoundly stupid idea because it's in the middle of the house, with no windows, so didn't get much air flow, and therefore, was prone to getting moldy, because you know, bathroom get moist...
 

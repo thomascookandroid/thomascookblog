@@ -9,3 +9,6 @@ theme = 'm10c'
 
 [permalinks]
   posts = "sections/:title/"
+
+[markup.goldmark.renderHooks.link]
+  enableDefault = true
