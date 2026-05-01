@@ -51,7 +51,7 @@ example.com (but not on Github, for example).
 
 # Images
 
-![Neovim Lazy](/images/nvim-lazy.png "Neovim Lazy")
+![Neovim Lazy](https://drive.google.com/file/d/1dgYGL6AwkmwYhnLtaS0tol_9hvZluWyJ/view?usp=drive_link)
 
 ---
 
