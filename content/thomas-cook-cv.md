@@ -6,8 +6,8 @@ title: "Thomas Cook CV"
 thomascookandroid@outlook.com
 
 ## Github(s)
-![Thomas Cook Develop Info (Old)](https://github.com/ThomasCookDeveloperInfo)
-![Thomas Cook Android (new)](https://github.com/thomascookandroid)
+[Thomas Cook Develop Info](https://github.com/ThomasCookDeveloperInfo)
+[Thomas Cook Android](https://github.com/thomascookandroid)
 
 ## Technical Skills
 - Kotlin/Java
