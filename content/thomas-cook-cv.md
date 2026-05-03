@@ -6,7 +6,7 @@ title: "Thomas Cook CV"
 thomascookandroid@outlook.com
 
 ## Github(s)
-[Thomas Cook Develop Info](https://github.com/ThomasCookDeveloperInfo)
+[Thomas Cook Develop Info](https://github.com/ThomasCookDeveloperInfo)\n
 [Thomas Cook Android](https://github.com/thomascookandroid)
 
 ## Technical Skills
