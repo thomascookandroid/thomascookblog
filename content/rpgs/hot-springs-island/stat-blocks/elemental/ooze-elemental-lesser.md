@@ -1,3 +1,6 @@
+---
+title: "Ooze Elemental - Lesser"
+---
 
 | Ooze Elemental               | Lesser                    |
 | ---------------------------- | ------------------------- |

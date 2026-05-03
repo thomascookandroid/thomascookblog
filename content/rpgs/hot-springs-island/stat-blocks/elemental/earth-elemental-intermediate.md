@@ -1,3 +1,6 @@
+---
+title: "Earth Elemental - Intermediate"
+---
 
 | Earth Elemental              | Intermediate                                 |
 | ---------------------------- | -------------------------------------------- |

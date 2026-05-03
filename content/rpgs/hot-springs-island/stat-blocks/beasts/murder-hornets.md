@@ -1,3 +1,6 @@
+---
+title: "Murder Hornets"
+---
 
 | Murder Hornets     |                                                                                                                                                                                                                           |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,5 +20,5 @@
 | Abilities          |                                                                                                                                                                                                                           |
 | Poison             | Causes permanent paralysis (and death after 1d4 days (save vs poison).                                                                                                                                                    |
 | Poison spit        | Spit poison in line (5' x 20'). (1/day)                                                                                                                                                                                   |
-| Decapitation       | On an attack roll of natural 18, 19, or 20, the target is decapitated. Against larger than human-sized targets,  <br>only a natural 19 or 20 decapitates, and against targets of solid stone or metal, only a natural 20. |
+| Decapitation       | On an attack roll of natural 18, 19, or 20, the target is decapitated. Against larger than human-sized targets, only a natural 19 or 20 decapitates, and against targets of solid stone or metal, only a natural 20. |
 | Vulnerable to fire | If a wasp is damaged with fire (e.g. burning oil, torches), its wings are burned off.                                                                                                                                     |

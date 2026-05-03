@@ -1,3 +1,6 @@
+---
+title: "Coralkin Angler"
+---
 
 | Coralkin Angler |                                                                                                                                                                                         |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,6 +19,6 @@
 |                 |                                                                                                                                                                                         |
 | Abilities       |                                                                                                                                                                                         |
 | Stinging Bite   | Target is paralyzed for for 1d10 rounds (save versus paralysis to resist).                                                                                                              |
-| Hurl            | Launch opponent into the air (1d6 falling damage per 10ft)  <br>  <br>If opponent hits ceiling, they take an additional 1d6 damage from the impact.  <br>  <br>Can only use underwater. |
-| Leap            | Can leap forward 20’, attacking with claws or weapon.  <br>  <br>Can only use when fighting on land.                                                                                    |
-| Tail Sweep      | Causes no damage, but knocks opponent down. Opponent cannot attack that round.  <br>  <br>Can only use when fighting on land.                                                           |
+| Hurl            | Launch opponent into the air (1d6 falling damage per 10ft) If opponent hits ceiling, they take an additional 1d6 damage from the impact. Can only use underwater.                       |
+| Leap            | Can leap forward 20’, attacking with claws or weapon. Can only use when fighting on land.                                                                                               |
+| Tail Sweep      | Causes no damage, but knocks opponent down. Opponent cannot attack that round. Can only use when fighting on land.                                                                      |

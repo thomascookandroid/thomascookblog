@@ -1,3 +1,6 @@
+---
+title: "Boltforager"
+---
 
 | Boltforager    |                                                                                                                                                                                                                                                                                                                                  |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,4 +18,4 @@
 | Treasure Table | U                                                                                                                                                                                                                                                                                                                                |
 |                |                                                                                                                                                                                                                                                                                                                                  |
 | Abilities      |                                                                                                                                                                                                                                                                                                                                  |
-| Dust Cloud     | Whenever the boltforager makes an attack, it produces a cloud of orange dust with the flapping of its wings.  <br>  <br>Save vs poison or be infected with parasites.  <br>  <br>After 1d6 days, the target must save vs poison or be afflicted by the parasites' disease, reducing its maximum hit points by 2 (1d4) every hour |
+| Dust Cloud     | Whenever the boltforager makes an attack, it produces a cloud of orange dust with the flapping of its wings. Save vs poison or be infected with parasites. After 1d6 days, the target must save vs poison or be afflicted by the parasites' disease, reducing its maximum hit points by 2 (1d4) every hour |

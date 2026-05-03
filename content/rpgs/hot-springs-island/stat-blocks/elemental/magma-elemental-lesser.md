@@ -1,3 +1,6 @@
+---
+title: "Magma Elemental - Lesser"
+---
 
 | Magma Elemental           | Lesser                                         |
 | ------------------------- | ---------------------------------------------- |

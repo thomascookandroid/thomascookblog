@@ -1,3 +1,6 @@
+---
+title: "Salamander Warrior - Greater"
+---
 
 | Salamander              | Warrior, Greater                                      |
 | ----------------------- | ----------------------------------------------------- |

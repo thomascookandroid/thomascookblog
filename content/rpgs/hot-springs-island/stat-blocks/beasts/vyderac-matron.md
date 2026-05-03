@@ -1,3 +1,6 @@
+---
+title: "Vyderac Matron"
+---
 
 | Vyderac Matron |                                                                                                                                         |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,7 +18,7 @@
 | Treasure Table | C                                                                                                                                       |
 |                |                                                                                                                                         |
 | Abilities      |                                                                                                                                         |
-| Acid Squirt    | Once per day, may squirt digestive acid at a target up to 50’ away (4d8 damage).  <br>Save versus breath for half damage.               |
+| Acid Squirt    | Once per day, may squirt digestive acid at a target up to 50’ away (4d8 damage). Save versus breath for half damage.                    |
 | Self Destruct  | Matron self-destructs, causing massive explosion of acid. All creatures in 60' radius take 4d6 damage (save vs breath for half damage). |
 | Birth Larva    | The vyderac matron spawns 1d6 vyderac maggots.                                                                                          |
 | Consume Blood  | If a vyderac feeder is within 20 feet of the matron, she can consume the blood stored within it to regain 13 (3d8) hit points.          |

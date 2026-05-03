@@ -1,3 +1,6 @@
+---
+title: "Night Axe Warrior"
+---
 
 | Night Axe Warrior |                     |
 | ----------------- | ------------------- |

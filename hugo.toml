@@ -11,4 +11,9 @@ theme = 'm10c'
   posts = "sections/:title/"
 
 [markup.goldmark.renderHooks.link]
-  enableDefault = true
+  useEmbedded = "fallback"
+
+[languages]
+  [languages.en]
+    locale = "en-uk"
+    label = "English"

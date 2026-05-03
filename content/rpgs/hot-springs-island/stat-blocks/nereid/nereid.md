@@ -1,3 +1,6 @@
+---
+title: "Nereid"
+---
 
 | Nereid               |                                                                                                                                                                                              |
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5,7 +8,7 @@
 | Hit Dice             | 4 (18 hp)                                                                                                                                                                                    |
 | Attacks              | 1 × strike (grab)                                                                                                                                                                            |
 | THAC0                | 16 [+3]                                                                                                                                                                                      |
-| Movement             | 120' (40')  <br>360' (120') swimming                                                                                                                                                         |
+| Movement             | 120' (40') 360' (120') swimming                                                                                                                                                         |
 | Saves                | D10 W11 P12 B13 S14                                                                                                                                                                          |
 | Morale               | 9                                                                                                                                                                                            |
 | Alignment            | Neutral                                                                                                                                                                                      |
@@ -19,4 +22,4 @@
 | Aquatic Invisibility | Invisible when underwater                                                                                                                                                                    |
 | Grab                 | The victim must save versus paralysis or be dragged underwater.                                                                                                                              |
 | Drowning Kiss        | Victim suffers 1d4 automatic damage and must save versus death or become unconscious. An unconscious victim dies after 3 rounds.                                                             |
-| Water Control        | Innate ability to control water.  <br>Bubble, Scald, Dilute, Simmer, Drown, Splash, Geyser, Spout, Globe, Spray, Gush, Squirt, Hurricane, Tsunami, Pool, Wave, Purify, Whip, Rain, Whirlpool |
+| Water Control        | Innate ability to control water. Bubble, Scald, Dilute, Simmer, Drown, Splash, Geyser, Spout, Globe, Spray, Gush, Squirt, Hurricane, Tsunami, Pool, Wave, Purify, Whip, Rain, Whirlpool |

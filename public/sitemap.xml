@@ -50,11 +50,33 @@
     <loc>http://localhost:1313/rpgs/traveller/player-characters/</loc>
     <lastmod>2026-04-29T20:10:07+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/alabaster-guardian/</loc>
+  </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/albino-centipede/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/feugonauts/albino-ogre/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/lizardmen/arva/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/feugonauts/ash-baron/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/astral-host/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/astral-spinner/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/bathhouse-plant/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/night-axe/bavmorda/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/fertilizer-to-bullets/player-characters/black-dog-company/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/blindfire-carpet/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/blindfire-vine/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fishing/blythe/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/boar/</loc>
   </url><url>
@@ -63,6 +85,12 @@
     <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/boneback-wydarr/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/broadback/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/campaign/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/feugonauts/combustarino/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/copperback/</loc>
   </url><url>
@@ -76,147 +104,17 @@
   </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/crystalback-wydarr/</loc>
   </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/deucadre/</loc>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/lizardmen/damadar-deodan/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/dire-boar/</loc>
   </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/flayfiend/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/giant-bat/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/giant-centipede/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/giant-rat/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/kujibird/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/murder-hornets/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/muttering-serpant/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/spine-dragon/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/tabibari/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/violet-rasp/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/vyderac-feeder/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/vyderac-maggot/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/vyderac-matron/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/vyderac-seeker/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/vyderac-swarmer/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/zip-bird/</loc>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/deucadre/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/earth-elemental-greater/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/earth-elemental-intermediate/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/earth-elemental-lesser/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/fire-elemental-greater/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/fire-elemental-intermediate/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/fire-elemental-lesser/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/magma-elemental-greater/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/magma-elemental-intermediate/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/magma-elemental-lesser/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/ooze-elemental-greater/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/ooze-elemental-intermediate/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/ooze-elemental-lesser/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/steam-elemental-greater/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/steam-elemental-intermediate/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/steam-elemental-lesser/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/water-elemental-greater/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/water-elemental-intermediate/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/water-elemental-lesser/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/alabaster-guardian/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/astral-host/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/astral-spinner/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/bathhouse-plant/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/lady-hedonia/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/obsidian-digger/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/orange-sludge/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/shadows/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/singing-golem/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/zeb/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/feugonauts/albino-ogre/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/feugonauts/ash-baron/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/feugonauts/combustarino/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/feugonauts/obsidian-blackguard/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/feugonauts/obsidian-giant/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/feugonauts/salamander-warrior-greater/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/feugonauts/salamander-warrior-lesser/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/feugonauts/svarku/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/lizardmen/arva/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/lizardmen/damadar-deodan/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/lizardmen/goa/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/lizardmen/kiru/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/nereid/meltalia/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/nereid/nereid/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/night-axe/bavmorda/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/night-axe/glavrok/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/night-axe/night-axe-bonebinder/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/night-axe/night-axe-edgesworn/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/night-axe/night-axe-warrior/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/night-axe/srok/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/fertilizer-to-bullets/player-characters/black-dog-company/</loc>
-  </url><url>
-    <loc>http://localhost:1313/fishing/blythe/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/hot-springs-island/campaign/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/</loc>
   </url><url>
@@ -230,11 +128,29 @@
   </url><url>
     <loc>http://localhost:1313/fishing/filey-brigg/</loc>
   </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/fire-elemental-greater/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/fire-elemental-intermediate/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/fire-elemental-lesser/</loc>
+  </url><url>
     <loc>http://localhost:1313/fishing/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/flayfiend/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/giant-bat/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/giant-centipede/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/giant-rat/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/night-axe/glavrok/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/fertilizer-to-bullets/gm-notes/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/fertilizer-to-bullets/gm-notes/helpers/gm-screen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/lizardmen/goa/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/fertilizer-to-bullets/gm-notes/helpers/</loc>
   </url><url>
@@ -242,19 +158,59 @@
   </url><url>
     <loc>http://localhost:1313/rpgs/fertilizer-to-bullets/player-characters/james-banning/</loc>
   </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/lizardmen/kiru/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/kujibird/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/lady-hedonia/</loc>
+  </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/lizardmen/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/umerica/player-characters/lou/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/magma-elemental-greater/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/magma-elemental-intermediate/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/magma-elemental-lesser/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/fertilizer-to-bullets/gm-notes/helpers/male-names/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/umerica/player-characters/margot/</loc>
   </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/nereid/meltalia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/murder-hornets/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/muttering-serpant/</loc>
+  </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/nereid/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/nereid/nereid/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/night-axe/night-axe-bonebinder/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/night-axe/night-axe-edgesworn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/night-axe/night-axe-warrior/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/night-axe/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/notes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/feugonauts/obsidian-blackguard/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/obsidian-digger/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/feugonauts/obsidian-giant/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/ooze-elemental-greater/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/ooze-elemental-intermediate/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/ooze-elemental-lesser/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/orange-sludge/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/fertilizer-to-bullets/player-characters/</loc>
   </url><url>
@@ -265,6 +221,10 @@
     <loc>http://localhost:1313/rpgs/umerica/player-characters/ray/</loc>
   </url><url>
     <loc>http://localhost:1313/fishing/runswick/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/feugonauts/salamander-warrior-greater/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/feugonauts/salamander-warrior-lesser/</loc>
   </url><url>
     <loc>http://localhost:1313/fishing/scotland/</loc>
   </url><url>
@@ -284,9 +244,27 @@
   </url><url>
     <loc>http://localhost:1313/rpgs/fertilizer-to-bullets/setting-notes/</loc>
   </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/shadows/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/singing-golem/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/spine-dragon/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/night-axe/srok/</loc>
+  </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/</loc>
   </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/steam-elemental-greater/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/steam-elemental-intermediate/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/steam-elemental-lesser/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/feugonauts/svarku/</loc>
+  </url><url>
     <loc>http://localhost:1313/rpgs/hot-springs-island/notes/svarku-vision/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/tabibari/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
@@ -300,6 +278,28 @@
   </url><url>
     <loc>http://localhost:1313/rpgs/umerica/session-logs/</loc>
   </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/violet-rasp/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/vyderac-feeder/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/vyderac-maggot/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/vyderac-matron/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/vyderac-seeker/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/vyderac-swarmer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/water-elemental-greater/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/water-elemental-intermediate/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elemental/water-elemental-lesser/</loc>
+  </url><url>
     <loc>http://localhost:1313/rpgs/fertilizer-to-bullets/gm-notes/secrets/nathanial-banning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/elves/zeb/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/hot-springs-island/stat-blocks/beasts/zip-bird/</loc>
   </url>
 </urlset>

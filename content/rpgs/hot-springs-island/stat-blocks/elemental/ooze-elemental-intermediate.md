@@ -1,3 +1,6 @@
+---
+title: "Ooze Elemental - Intermediate"
+---
 
 | Ooze Elemental               | Intermediate              |
 | ---------------------------- | ------------------------- |

@@ -1,3 +1,6 @@
+---
+title: "Water Elemental - Greater"
+---
 
 | Water Elemental         | Greater                         |
 | ----------------------- | ------------------------------- |

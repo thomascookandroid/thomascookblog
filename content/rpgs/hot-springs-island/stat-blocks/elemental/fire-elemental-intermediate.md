@@ -1,3 +1,6 @@
+---
+title: "Fire Elemental - Intermediate"
+---
 
 | Fire Elemental            | Intermediate                                   |
 | ------------------------- | ---------------------------------------------- |

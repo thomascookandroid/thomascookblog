@@ -1,3 +1,6 @@
+---
+title: "Magma Elemental - Intermediate"
+---
 
 | Magma Elemental           | Intermediate                                   |
 | ------------------------- | ---------------------------------------------- |

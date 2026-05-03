@@ -1,3 +1,6 @@
+---
+title: "Boar"
+---
 
 | Boar           |                                                      |
 | -------------- | ---------------------------------------------------- |
@@ -9,7 +12,7 @@
 | Saves          | D12 W13 P14 B15 S16                                  |
 | Morale         | 9                                                    |
 | Alignment      | Neutral                                              |
-| Size           | 3ft tall at shoulder  <br>5ft long  <br>300 - 700lbs |
+| Size           | 3ft tall at shoulder 5ft long 300 - 700lbs           |
 | XP             | 35                                                   |
 | # Appearing    | 1d6 (1d6)                                            |
 | Treasure Table | None                                                 |

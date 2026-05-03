@@ -1,3 +1,6 @@
+---
+title: "Salamander Warrior - Lesser"
+---
 
 | Salamander              | Warrior, Lesser                                       |
 | ----------------------- | ----------------------------------------------------- |

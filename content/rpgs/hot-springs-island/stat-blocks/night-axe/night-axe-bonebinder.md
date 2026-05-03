@@ -1,3 +1,6 @@
+---
+title: "Night Axe Bonebinder"
+---
 
 | Night Axe Bonebinder |                                                                                                                                                                            |
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,7 +18,7 @@
 | Treasure Table       | C + 1000gp                                                                                                                                                                 |
 |                      |                                                                                                                                                                            |
 | Abilities            |                                                                                                                                                                            |
-| Shaman magic         | Cleric Spells  <br>1st level: 2  <br>2nd level: 2  <br>3rd level: 1  <br>4th level: 1                                                                                      |
+| Shaman magic         | Cleric Spells 1st level: 2, 2nd level: 2, 3rd level: 1, 4th level: 1                                                                                      |
 | Crazy Bone           | Non-Night-Axe are confused. Night Axe are enraged.                                                                                                                         |
 | Lazy Bone            | Objects worn or held by target become heavier and heavier until target must stop to rest                                                                                   |
 | Wish Bone            | Target is able to change fate in a minor way                                                                                                                               |

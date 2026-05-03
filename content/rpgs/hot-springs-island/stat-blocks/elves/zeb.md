@@ -1,9 +1,12 @@
+---
+title: "Zeb"
+---
 
 | Zeb            |                                                                                                                                                                                                                                                                        |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | AC             | 2 [17]                                                                                                                                                                                                                                                                 |
 | Hit Dice       | 9 + 2 (42 hp)                                                                                                                                                                                                                                                          |
-| Attacks        | 1 x vorpal sword (1d8 + 2) or  <br>1 x long bow (1d6) or magic                                                                                                                                                                                                         |
+| Attacks        | 1 x vorpal sword (1d8 + 2) or 1 x long bow (1d6) or magic                                                                                                                                                                                                         |
 | THAC0          | 11 [+8] (9 [+10] for vorpal sword)                                                                                                                                                                                                                                     |
 | Movement       | 120' (40')                                                                                                                                                                                                                                                             |
 | Saves          | D6 W7 P8 B8 S8                                                                                                                                                                                                                                                         |
@@ -15,5 +18,6 @@
 | Treasure Table | G, N                                                                                                                                                                                                                                                                   |
 |                |                                                                                                                                                                                                                                                                        |
 | Abilities      |                                                                                                                                                                                                                                                                        |
-| Arcane Tatoos  | Manifest any mundane weapon or armor.  <br>  <br>Can also store magical weapons/armor in an extradimensional space.  <br>  <br>Currently storing:  <br>Elven Chain Mail +3  <br>Sword, +2, Vorpal  <br>  <br>Can also (3/day):  <br>Fly  <br>Open gate to Astral Plane |
-| Spell casting  | Cast spells as a 10th level elf.  <br>  <br>Magic-User Spells  <br>1st level: 3  <br>2nd level: 3  <br>3rd level: 3  <br>4th level: 3  <br>5th level: 2                                                                                                                |
+| Arcane Tatoos  | Manifest any mundane weapon or armor. Can also store magical weapons/armor in an extradimensional space. Currently storing: Elven Chain Mail +3, Sword, +2, Vorpal. Can also (3/day): Fly, Open gate to Astral Plane |
+i
+| Spell casting  | Cast spells as a 10th level elf.  Magic-User Spells 1st level: 3, 2nd level: 3, 3rd level: 3, 4th level: 3,  5th level: 2                                                                                                                |

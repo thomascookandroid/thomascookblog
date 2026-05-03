@@ -1,3 +1,6 @@
+---
+title: "Water Elemental - Intermediate"
+---
 
 | Water Elemental         | Intermediate                    |
 | ----------------------- | ------------------------------- |

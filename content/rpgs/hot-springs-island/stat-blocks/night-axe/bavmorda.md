@@ -1,3 +1,6 @@
+---
+title: "Bavmorda"
+---
 
 | Bavmorda          |                                                                                                                                                          |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,7 +18,7 @@
 | Treasure Table    | D                                                                                                                                                        |
 |                   |                                                                                                                                                          |
 | Abilities         |                                                                                                                                                          |
-| Shape Obsidian    | Can mold obsidian into any shape with her bare hands.  <br>  <br>Double damage vs obsidian entities when attacking with fists                            |
-| Shaman magic      | Cleric Spells  <br>1st level: 3  <br>2nd level: 3  <br>3rd level: 2  <br>4th level: 2  <br>5th level: 1                                                  |
+| Shape Obsidian    | Can mold obsidian into any shape with her bare hands. Double damage vs obsidian entities when attacking with fists                            |
+| Shaman magic      | Cleric Spells 1st level: 3, 2nd level: 3, 3rd level: 2, 4th level: 2, 5th level: 1                                                  |
 | Illusion immunity | Completely unaffected by illusions and phantasms.                                                                                                        |
 | Grapple           | If a victim is hit by both of Bavmorda’s silver hair attacks in the same round, they are seized and suffer automatic damage (2d8) each subsequent round. |

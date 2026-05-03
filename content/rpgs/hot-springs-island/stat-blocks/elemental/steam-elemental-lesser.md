@@ -1,3 +1,6 @@
+---
+title: "Steam Elemental - Lesser"
+---
 
 | Steam Elemental | Lesser                                                                                  |
 | --------------- | --------------------------------------------------------------------------------------- |
@@ -5,7 +8,7 @@
 | Hit Dice        | 8* (36 hp)                                                                              |
 | Attacks         | 1 x blow (1d8)                                                                          |
 | THAC0           | 12 [+7]                                                                                 |
-| Movement        | 60' (20')  <br>180' (60') swimming                                                      |
+| Movement        | 60' (20') 180' (60') swimming                                                      |
 | Saves           | D8 W9 P10 B10 S12                                                                       |
 | Morale          | 10                                                                                      |
 | Alignment       | Neutral                                                                                 |

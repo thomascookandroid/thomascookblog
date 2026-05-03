@@ -1,3 +1,6 @@
+---
+title: "Srok"
+---
 
 | Srok           |                                                                                                                               |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -15,5 +18,5 @@
 | Treasure Table | C + 1000gp                                                                                                                    |
 |                |                                                                                                                               |
 | Abilities      |                                                                                                                               |
-| Shape Obsidian | Can mold obsidian into any shape with his bare hands.  <br>  <br>Double damage vs obsidian entities when attacking with fists |
-| Path of Fury   | Weapon attacks inflict double damage.  <br>  <br>Takes half damage from non-magical attacks.                                  |
+| Shape Obsidian | Can mold obsidian into any shape with his bare hands. Double damage vs obsidian entities when attacking with fists |
+| Path of Fury   | Weapon attacks inflict double damage. Takes half damage from non-magical attacks.                                  |

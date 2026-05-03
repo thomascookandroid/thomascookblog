@@ -1,3 +1,6 @@
+---
+title: "Magma Elemental - Greater"
+---
 
 | Magma Elemental           | Greater                                        |
 | ------------------------- | ---------------------------------------------- |

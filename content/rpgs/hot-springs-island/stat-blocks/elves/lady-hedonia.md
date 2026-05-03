@@ -18,5 +18,5 @@ title: "Lady Hedonia"
 | Treasure Table          | M, N, O                                                                                                                                                              |
 |                         |                                                                                                                                                                      |
 | Abilities               |                                                                                                                                                                      |
-| Spellcasting            | At will:  <br>Suggestion  <br>Confusion  <br>Charm Person  <br>Levitate  <br>Read Languages  <br>Detect Invisible  <br>Polymorph Self  <br>Improved Phantasmal Force |
+| Spellcasting            | At will: Suggestion, Confusion, Charm Person, Levitate, Read Languages, Detect Invisible, Polymorph Self, Improved Phantasmal Force                                  |
 | Mundane damage immunity | Can only be harmed by magical attacks.                                                                                                                               |

@@ -1,3 +1,6 @@
+---
+title: "Earth Elemental - Lesser"
+---
 
 | Earth Elemental              | Lesser                                       |
 | ---------------------------- | -------------------------------------------- |

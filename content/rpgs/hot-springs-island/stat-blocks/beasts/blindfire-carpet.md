@@ -1,3 +1,6 @@
+---
+title: "Blindfire Carpet"
+---
 
 | Blindfire Carpet        |                                                                                                                                                                                                           |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -19,4 +22,4 @@
 | Weapon damage reduction | All weapon damage reduced by half.                                                                                                                                                                        |
 | Fire immunity           | Unharmed by fire, due to being soaked with slime.                                                                                                                                                         |
 | Lightning growth        | If damaged by lightning, gains one Hit Die.                                                                                                                                                               |
-| Seep                    | Can flatten body to squeeze  <br>through small holes.                                                                                                                                                     |
+| Seep                    | Can flatten body to squeeze through small holes.                                                                                                                                                          |

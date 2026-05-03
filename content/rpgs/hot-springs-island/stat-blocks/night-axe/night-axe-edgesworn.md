@@ -1,3 +1,6 @@
+---
+title: "Night Axe Edgesworn"
+---
 
 | Night Axe Edgesworn |                                                                                                                                 |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,7 +18,7 @@
 | Treasure Table      | C + 1000gp                                                                                                                      |
 |                     |                                                                                                                                 |
 | Abilities           |                                                                                                                                 |
-| Shape Obsidian      | Can mold obsidian into any shape with their bare hands.  <br>  <br>Double damage vs obsidian entities when attacking with fists |
-| Path of Speed       | Base speed is 150’ (50').  <br>  <br>Can attack twice per round.                                                                |
-| Path of Fury        | Weapon attacks inflict double damage.  <br>  <br>Takes half damage from non-magical attacks.                                    |
+| Shape Obsidian      | Can mold obsidian into any shape with their bare hands. Double damage vs obsidian entities when attacking with fists |
+| Path of Speed       | Base speed is 150’ (50'). Can attack twice per round.                                                                |
+| Path of Fury        | Weapon attacks inflict double damage. Takes half damage from non-magical attacks.                                    |
 | Path of Terror      | Anyone gazing upon edgesworn must save versus paralysis or flee in terror.                                                      |

@@ -1,3 +1,6 @@
+---
+title: "Damadar Deodan"
+---
 
 | Damadar Deodan          |                                                                                                                                                                                              |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -18,6 +21,6 @@
 | Cloak True Form         | Can read the minds of those they encounter then cloak their true form with an illusion of a creature or type of person deemed friendly.                                                      |
 | Spell immunity          | Immune to all spells of 1st to 3rd level.                                                                                                                                                    |
 | Mundane damage immunity | Can only be harmed by magical attacks.                                                                                                                                                       |
-| Spell casting           | Cast spells as a 5th level magic-user and a 3rd level cleric.  <br>  <br>Magic-User Spells  <br>1st level: 2  <br>2nd level: 2  <br>3rd level: 1  <br>  <br>Cleric Spells:  <br>1st level: 2 |
+| Spell casting           | Cast spells as a 5th level magic-user and a 3rd level cleric. Magic-User Spells 1st level: 2, 2nd level: 2, 3rd level: 1, Cleric Spells: 1st level: 2 |
 | Vulnerability           | A hit by a blessed crossbow bolt kills a rakshasa.                                                                                                                                           |
 | Groups                  | A single male will often be encountered with multiple females.                                                                                                                               |

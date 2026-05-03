@@ -95,7 +95,7 @@ title: "GM Screen"
 ### NPC Team DMs
 | Situation                                          | NPC DM |
 | -------------------------------------------------- | ------ |
-| <br>Range is UNDER their weapon range band         | +1     |
+| Range is UNDER their weapon range band         | +1     |
 | Enemy in the open, stood or running                | +2     |
 | Enemy in the open, advancing in rushes             | +1     |
 | Enemy prone or in cover                            | -      |

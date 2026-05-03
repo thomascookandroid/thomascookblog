@@ -1,3 +1,6 @@
+---
+title: "Earth Elemental - Greater"
+---
 
 | Earth Elemental              | Greater                                      |
 | ---------------------------- | -------------------------------------------- |
