@@ -2,9 +2,10 @@
 title: "Primer"
 ---
 
-# Preface
+**This document was supplied by Paddy to serve as a primer for a campaign setting using the modern warfare system.**
 
-This document is not at all intended to be politically-correct. It is intended to engender fun discussions regarding the construction of a fictional tabletop roleplay campaign based loosely on a geographic region of modern-day Earth. No offense or disrespect is intended to the people, organizations and governments in Southeast Asia, nor any other region. Some of the assertions I make in this document may be partially or completely incorrect, I do not claim these to be accurate depictions of reality, as this is intended to be used for fiction.
+# Preface
+It is not at all intended to be politically-correct. It is intended to engender fun discussions regarding the construction of a fictional tabletop roleplay campaign based loosely on a geographic region of modern-day Earth. No offense or disrespect is intended to the people, organizations and governments in Southeast Asia, nor any other region. Some of the assertions I make in this document may be partially or completely incorrect, I do not claim these to be accurate depictions of reality, as this is intended to be used for fiction.
 
 # Overview
 
