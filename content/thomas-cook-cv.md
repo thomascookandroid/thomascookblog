@@ -76,7 +76,7 @@ The most challenging thing I worked on there was an Android app which was deploy
 
 I was involved in the design and development of web systems which served the UK utility sector. This included gathering requirements, mocking up front end using Balsamiq, designing and implementing SQL databases and threading them to the front end application through an ORM inside a .NET/ASP C# project to generate Razer views, as well as writing CSS (LESS) and Javascript/Typescript JQuery on the front end. Also had to consume several old APIs using WSDL. It was a very challenging first job after graduating university!
 
-#### Business: PBH Rail**
+#### Business: PBH Rail
 **Location: Remote**\
 **Role: Contractor/Consultant**\
 **Period: Jan 2016 - Apr 2017**
