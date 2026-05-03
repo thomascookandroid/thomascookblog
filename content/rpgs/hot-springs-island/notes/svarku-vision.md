@@ -1,0 +1,53 @@
+---
+title: "Svarku Vision"
+---
+
+- A sense of great contentment and calm descends upon you and feel transported from your current physical location to some other plane or place
+---
+- You see a great golden ethereal throne room with a council of elves
+- An elf receives a gauntlet and some documents from the council
+- The council instructs the elf to deliver the gauntlet to the Efreets, to seal an alliance which will last ten thousand years
+---
+- Your sense of calm dissipates, and you begin to feel frenetic and anxious
+- You see a muscular, extremely handsome red fire deamon
+- He is gambling wildly in darkened dens and living a lavish life
+- One day he loses a massive bet to a laughing elf
+- He becomes enraged and leaves the table
+- In an an alley, you see him kill the laughing elf
+- From the body, he picks up a bejeweled gauntlet and a sheaf of papers
+- After reading the paper, he becomes visibly anxious and flees the scene
+---
+- Some time has passed, it feels like centuries
+- You see the handsome deamon fleeing across worlds and entire planes of existence
+---
+- More time passes, it is beyond your understanding how much
+- You see the deamon aboard a vessel of fire and ash amongst a great ocean
+- In the distance, an archipelago comes into view
+- He makes landfall, you hear familiar birdcall and waves lapping against a stony beach
+- The deamon discovers vast caverns filled with translucent red crystals of dancing red flame
+- The deamon seems to recognize the crystals and he looks upwards as if to the gods and begins laughing
+---
+- You feel confused and discombobulated, as if you are witnessing something that should not be possible
+- The deamon is parlaying with a being you could not describe as it's form is like nothing a mortal mind could comprehend
+- The being places a gigantic mirrored crystal within a lavishly appointed bedchamber 
+---
+- You smell acrid smoke and your skin sears as if on fire and you sense a great evil
+- The deamon strikes a deal with creatures made of fire and ash
+- A score of large muscular creatures walk forth through a portal, a hundred or more
+- They toil away in caverns, mining the red crystal and carrying boxes of it back through the portal
+---
+- Time passes
+- You hear the creatures of fire and ash learning of a secret
+- The ash beings demand more and more of the deamon
+---
+- Yet more time passes
+- There is a cold breeze and the sound of trees blowing in the wind
+- In a clearing within an overgrown jungle, the deamon and his cadre are separating the large muscular creatures into two groups
+- The deamon is snorting red powder and pacing hysterically
+- Suddenly a flash, then you smell burning flesh and sense a great terror
+---
+- It is night time now
+- Steel clashes, the cries of combat and magic fill the air
+- You sense victory, freedom and a kernel of great justice
+---
+- The vision fades
