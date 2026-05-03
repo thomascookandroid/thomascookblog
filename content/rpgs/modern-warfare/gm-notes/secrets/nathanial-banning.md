@@ -1,5 +1,5 @@
 ---
-title: "Description"
+title: "Whatever Happened to Nathanial Banning?"
 ---
 
 

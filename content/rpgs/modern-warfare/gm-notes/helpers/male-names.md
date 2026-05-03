@@ -2,7 +2,6 @@
 title: "Male Names"
 ---
 
-
 | Trait                    | Names (Nickname)                                                                                                                                            |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Strong / Tough           | Sakda (Oak), Somchai (Chai), Chaiya (Yai), Det (Det), Kraisak (Krai), Thana (Na), Wirot (Rot), Prasong (Song), Ritthichai (Rit), Surachai (Chai)            |
