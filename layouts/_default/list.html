@@ -17,10 +17,18 @@
   <!-- Only show "Articles" header if there are actual files in this specific folder -->
   {{ if .RegularPages }}
     <ul>
-      {{ range .RegularPages }}
+      {{ range (where .RegularPages "File.TranslationBaseName" "!=" "thomas-cook-cv") }}
         <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
       {{ end }}
     </ul>
+  {{ end }}
+
+  {{ if .IsHome }}
+    {{ with .Site.GetPage "thomas-cook-cv.md" }}
+      <div class="cv-container">
+        {{ .Content }}
+      </div>
+    {{ end }}
   {{ end }}
 {{ end }}
 

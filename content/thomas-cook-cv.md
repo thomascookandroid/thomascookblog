@@ -2,14 +2,16 @@
 title: "Thomas Cook CV"
 ---
 
-## Email:
+# Thomas Cook CV
+
+### Email:
 thomascookandroid@outlook.com
 
-## Github(s)
+### Github(s)
 [Thomas Cook Develop Info](https://github.com/ThomasCookDeveloperInfo)\
 [Thomas Cook Android](https://github.com/thomascookandroid)
 
-## Technical Skills
+### Technical Skills
 - Kotlin/Java
 - Coroutines/Flows
 - Concurrency and distributed systems
@@ -25,7 +27,7 @@ thomascookandroid@outlook.com
 - C#/Javascript/Typescript/Haskell/Python/C/CPP
 - Basic shader knowledge (shader pipeline) OpenGL ES 2.0
 
-## General Skills
+### General Skills
 - Requirements gathering and project specification
 - Ticket creation, refinement and triage
 - Ability to quickly adapt to new domains and codebases
@@ -37,7 +39,7 @@ thomascookandroid@outlook.com
 - DIY/House renovations
 - Being a dad
 
-## Employment History
+### Employment History
 
 #### Business: Lush Digital Ltd
 **Location: Remote**\
@@ -91,7 +93,7 @@ During this period, I was finishing my final year of university. I got a contrac
 Electrification design, CAD, report creation, risk assessment, site surveys, meeting with clients and mentoring juniors
 
 
-## Formal Higher Education
+### Formal Higher Education
 - BSc Computer Games and Production, Northumbria Uni (1st Class Hons)
 - Access to Creative Art and Design (Distinction, Distinction, Distinction)
 - BTEC Manufacturing Engineering (Pass, Pass, Merit)
