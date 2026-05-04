@@ -24,23 +24,23 @@ Human
 | SOC  | 5     | -1  |
 
 ### Skills
-Flyer 0,
-Streetwise 0,
-Drive 0,
-Navigation 2,
-Profession (Polymers) 1,
-Carouse 1,
-Art 0,
-Deception 1,
-Persuade 1,
-Steward 0,
-Electronics (Comms) 1,
-Vacc Suit 0,
-Recon 0,
-Tactics (Military) 1,
-Gunner (Turret) 1,
-Gun Combat 0,
-Medic 1
+- Flyer 0
+- Streetwise 0
+- Drive 0
+- Navigation 2
+- Profession (Polymers) 1
+- Carouse 1
+- Art 0
+- Deception 1
+- Persuade 1
+- Steward 0
+- Electronics (Comms) 1
+- Vacc Suit 0
+- Recon 0
+- Tactics (Military) 1
+- Gunner (Turret) 1
+- Gun Combat 0
+- Medic 1
 
 ### Relationships
 #### Rivals

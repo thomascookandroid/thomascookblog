@@ -24,21 +24,21 @@ Human
 | SOC  | 5     | -1  |
 
 ### Skills
-Science (Sophontology) 1
-Animals (Veterinary) 3
-Admin 1
-Language 0
-Athletics 0
-Vacc Suit 0
-Tactics (Naval) 3
-Heavy Weapons 0
-Gun Combat 0
-Stealth 1
-Leadership 2
-Engineer 0
-Diplomat 0
-Recon 1
-Pilot (Spacecraft) 1
+- Science (Sophontology) 1
+- Animals (Veterinary) 3
+- Admin 1
+- Language 0
+- Athletics 0
+- Vacc Suit 0
+- Tactics (Naval) 3
+- Heavy Weapons 0
+- Gun Combat 0
+- Stealth 1
+- Leadership 2
+- Engineer 0
+- Diplomat 0
+- Recon 1
+- Pilot (Spacecraft) 1
 
 ### Relationships
 #### Rivals
