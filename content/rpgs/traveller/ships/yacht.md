@@ -3,18 +3,23 @@ title: "Yacht"
 ---
 
 ### Overview
-#### Name: Celestial Princess
-#### Class: Y
-#### Hull 200 tons, standard
-#### Hull Points: 80 (80)
-#### Armour: -
-#### Computer: 5
-#### Power Plant: Fusion, Power 90
-#### Fuel Tanks: J-1, 8 Weeks Operation
+- Name: Celestial Princess
+- Class: Y
+- Hull 200 tons, standard
+- Hull Points: 80 (80)
+- Armour: -
+- Computer: 5
+- Power Plant: Fusion, Power 90
+- Fuel Tanks: J-1, 8 Weeks Operation
 
+### Systems
+- Docking Space (4 tons)
+- Air/Raft
+- Docking Space (30 tons)
+- Ship's Boat
+  - ATV
 
-### Power Management
-#### Power Points: 90
+### Power Management (Power Points: 90)
 | System | Power Points Req. |
 | ------ | ----------------- |
 | Basic Ship Systems | 40 |
@@ -41,18 +46,10 @@ title: "Yacht"
 | --------- | ---- |
 | Civilian Grade |  |
 
-### Cargo
-##### Max Capacity: 21
+### Cargo (Max Capacity: 21 tons)
 | Name | Tons |
 | ---- | ---- |
 | -    | -    |
-
-### Systems
-- Docking Space (4 tons)
-- Air/Raft
-- Docking Space (30 tons)
-- Ship's Boat
-  - ATV
 
 ### Staterooms
 | Type | Amount |
@@ -75,5 +72,4 @@ title: "Yacht"
 | Manoeuvre Drive | 1 |
 | Reaction Drive | - |
 | Jump Drive | 1 |
-
 
