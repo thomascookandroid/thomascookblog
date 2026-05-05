@@ -14,7 +14,7 @@ So I took it upon myself to make a new bathroom in this room which used to be a 
 Here is some footage of what the bathroom area looked like just after I'd started the work:
 
 #### Bathroom Before
-![Bathroom Before]
+![Bathroom Before][1]
 
 I chose to make the room slightly smaller than it was before, in order to increase the size of the soon to be new kids nursery in the middle of the house. To do this, I had to build a stud wall, which I chosen to put a window in too so light could come through a frosted glass plane into my future childs nursery, because I didn't want a mole kid. This stud wall had to then be tanked to stop moisture penetrating the plasterboard and studwork. 
 
@@ -25,19 +25,19 @@ I then installed a sink, toilet and bath and plumbed those in. The toilet waste 
 Here are some pics of the progress and the finished job.
 
 #### Bathroom 1
-![Bathroom 1]
+![Bathroom 1][2]
 
 #### Bathroom 2
-![Bathroom 2]
+![Bathroom 2][3]
 
 #### Bathroom 3
-![Bathroom 3]
+![Bathroom 3][4]
 
 #### Bathroom 4
-![Bathroom 4]
+![Bathroom 4][5]
 
 #### Finished Bathroom
-![Bathroom 5]
+![Bathroom 5][6]
 
 It's amazing what cleaning up, caulking and painting can do!
 

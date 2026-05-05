@@ -5,7 +5,7 @@ title = 'Screeps'
 
 Screeps is this awesome little game which is for programmers to pit their custom developed AI's against one another in a real time strategy game which is ran on a shared shard server.
 
-You can purchase it ![Here](https://store.screeps.com/) if this article interests you, but be warned they apparently had some security issue last year, although I imagine that's been patched now, but fair warning!
+You can purchase it [Here][1] if this article interests you, but be warned they apparently had some security issue last year, although I imagine that's been patched now, but fair warning!
 
 Basically, you write Javascript (or Typescript - there are full TS bindings provided) to control Screeps (which are the games units) which spawn in a room, within a larger grid of many rooms known as "the world". Each room has unique randomly generated geometry and resource nodes, and your script needs to have your Screeps sense their environment, then plan and execute actions in order to farm the resources, build a base, including production facilities, storage facilities and defensive structures. Eventually, the aim is to expand to other rooms, which will lead to conflict with other players Screep armies, so you need to code in combat and squad AI too.
 
@@ -13,9 +13,9 @@ The API is fairly well documented, and it's relatively low level; it lets you qu
 
 It's been a couple years since I last touched my Screep bot, but I went fairly deep into it last time, implementing caching of calculated paths for optimisation, flood fill algorithms to determine the best build locations, manager classes to manage the colony, squad manager to manage squads of attacker Screeps.
 
-![Repository](https://github.com/thomascookandroid/Screeps-AI/tree/develop/src) is my Screeps repository containing my Screeps AI in all it's glory.
+[This][2] is my Screeps repository containing my Screeps AI in all it's glory.
 
-Here's an implementation of an algorithm that finds the closest "valid" "cell" in a room to the supplied `position` where "valid" is with respect to the supplied heuristic.
+Here's an implementation of an algorithm that finds the closest "valid" "cell" in a room to the supplied position where "valid" is with respect to the supplied heuristic.
 
 ```
 const findClosestValidRoomPosition = (room, position, heuristic) => {
@@ -99,3 +99,6 @@ visualiseRoomDistanceTransform() {
 	}
 }
 ```
+
+[1]: https://store.screeps.com/
+[2]: https://github.com/thomascookandroid/Screeps-AI/tree/develop/src

@@ -10,16 +10,16 @@ Fortunately there were already stairs leading up, and floorboards. There were no
 Unfortunately, I don't have any pictures of what it looked like before I started, but I'll try to explain. Basically, all the plaster was cracked and very old, so the whole room needed re-plastering. The floorboards were in a bad state too, so a lot needed repairing, and a floor skin needed laying to spread loads. Lighting needed to be installed too, and then obviously velux windows, but I'd be getting contractors to do the windows.
 
 #### Half way through
-![Loft 1]
+![Loft 1][2]
 
 #### Finished 1
-![Loft 2]
+![Loft 2][3]
 
 #### Finished 2
-![Loft 3]
+![Loft 3][4]
 
 #### Finished 3
-![Loft 4]
+![Loft 4][5]
 
 [1]: ./../bedroom/bedroom.md
 [2]: https://drive.google.com/file/d/1XAy-mgMHCPwo7EzhboLDIC_0cPSMRH7g/view?usp=drive_link

@@ -5,20 +5,20 @@ title = 'Meta Balls'
 
 At Lush I was asked to work on something that was coined Bubble Nav, it looks like this:
 
-![Bubbles](https://drive.google.com/file/d/1uzEErv_Rl_yY4aQ_7Z8lxW8HdL1IiRE9/view?usp=drive_link)
+![Bubbles][1]
 
 Obviously, as you can see, I managed to implement it. What you can't see that in image is that it is also fully animated. That view is dynamically generated at runtime, and is implemented using shaders. Well, actually, that's a bit of a leap, but I'll get into the details shortly. First, let me explain what is actually happening here at a conceptual level.
 
 From a design perspective, each of the circles in the above image is a clickable "node" within a nav tree, and clicking it will take you to either a sub tree (if the node was the root of a sub-tree) or, it will deep link you to some content elsewhere in the app if the node was a leaf node. Furthermore, the tree is supplied as a structure from the back end in the form of JSON, and each node has an associated color and text property. The design intent was to have the circles "blend with one another" and to fill the screen space dynamically, so if there are more nodes, the tree needs to grow organically to fill the screen space, keeping each node as a circle arranged around a central circle concentrically, with some chaos thrown in so it doesn't look too symetrical.
 
 
-The first thing I did was to do some research. After a few hours, I came across something called ![Metaballs]( https://matiaslavik.wordpress.com/computer-graphics/metaball-rendering/) which looked promising. After reading that article, and getting ideas far above my station, I started in earnest learning shaders, something I've never done b efore.
+The first thing I did was to do some research. After a few hours, I came across something called [Metaballs][2] which looked promising. After reading that article, and getting ideas far above my station, I started in earnest learning shaders, something I've never done b efore.
 
 The plan then was to implement a fully custom shader using OpenGL ES 2.0 which is the OpenGL standard that Android supports. I made some pretty good headway with that, but ultimately, the fact I'd never written a shader in my life before so was effectively having to learn GPU programming from scratch, combined with deadline pressure meant I had to return to the drawing board. In any case, I learned all about shader pipelines, vertex and fragment, UVs, supplying data from the CPU to the GPU etc, so it wasn't totally time wasted.
 
 So, back to the drawing board, a bit frustrated and feeling the burn of the impending deadline I was researching alternatives to my initial approach, and talked to colleague on the iOS team who had made more progress than me (side note, this seems to be a common theme, those iOS devs are another breed). The approach they had taken was compltely different to the shader approach, but the results were just as impressive. They had effectively taken a more "compositional approach" with doing post processing effects on a rasterised image. The steps were to draw colored cirlces to a bitmap, then blur them with a guassian blur with a quite large radius, then to pass the whole bitmap through a matrix transform applying threshold to "cut out" any pixels that were too transparent (over the threshold), then finally pumping up the resulting images alpha to fully opaque again to get the metaball effect.
 
-So, I implemented that on Android. But, it was super slow... like way too slow to be acceptable, because remember, this whole view animates, when you click the nodes, they need to collapse in and re-expand to the new tree with a boingy effect, so all this bitmap transformations happening on the CPU, every frame, even on a background thread, was just unnnaceptably slow, so I needed a way to offload this work to the GPU. I managed to do that using `RenderNode` ![RenderNode](https://developer.android.com/reference/android/graphics/RenderNode) which allows us to setup render pipelines to run on the GPU, kind of like a halfway house between writing a shader and doing higher level code.
+So, I implemented that on Android. But, it was super slow... like way too slow to be acceptable, because remember, this whole view animates, when you click the nodes, they need to collapse in and re-expand to the new tree with a boingy effect, so all this bitmap transformations happening on the CPU, every frame, even on a background thread, was just unnnaceptably slow, so I needed a way to offload this work to the GPU. I managed to do that using [RenderNode][3] which allows us to setup render pipelines to run on the GPU, kind of like a halfway house between writing a shader and doing higher level code.
 
 All in all then, this was some complicated shit, but I pulled it off! I think I could improve the look and feel of it further, but it is stable and runs at a silky smooth 60fps even on crappy older devices. I'm not sold on the actual UX of this view, but that's above my paygrade to be honest, I did protest the entire time about the fundamental UX of it but it didn't make any difference, the business wanted Bubbles, so Bubbles the business would have...
 
@@ -311,3 +311,7 @@ fun GooeyCanvas(
     }
 }
 ```
+
+[1]: https://drive.google.com/file/d/1uzEErv_Rl_yY4aQ_7Z8lxW8HdL1IiRE9/view?usp=drive_link
+[2]: https://matiaslavik.wordpress.com/computer-graphics/metaball-rendering/
+[3]: https://developer.android.com/reference/android/graphics/RenderNode
