@@ -1,7 +1,6 @@
-+++
-date = '2026-04-29T20:10:07+01:00'
-title = 'Jace Windu'
-+++
+---
+title: "Jace Windu"
+---
 
 ### About
 #### Home Planet
@@ -50,8 +49,8 @@ Human
 - None
 
 #### Contacts
-- An on the ground reporter in the home world news org
-- [[Sumita Bai]] a diplomat who would often be present at press conferences
+- [Jacquel Campbutl][1] a Jewel news anchor
+- Used to ask [Sumita Bai][2] pressing questions about Jewell subsector politics wwhen she was working as a diplomat, and they also used to hang out together in bars at the Jewell star town
 
 #### Allies
 - None
@@ -89,3 +88,6 @@ Human
 4. Joined a merchant ship as a Free Trader working in the Jewell subsector, but imperial trade restrictions made this a short career, pushing Jace into piracy
 5. Served as a Lackey aboard a pirate ship, got noticed by the captain who mentored him in the ways of piracy
 6. The pirate ship was blown up by Jewell subsector police fleet and Jace barely escaped with his life aboard an escape pod
+
+[1]: ({{<relref "./../npcs/jacquel-campbutl.md">}})
+[2]: {{<relref "./sumita-bai.md">}})

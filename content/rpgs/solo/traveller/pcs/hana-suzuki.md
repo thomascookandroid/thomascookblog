@@ -1,7 +1,6 @@
-+++
-date = '2026-04-29T20:10:07+01:00'
-title = 'Hana Suzuki'
-+++
+---
+title: "Hana Suzuki"
+---
 
 ### About
 #### Home Planet
@@ -42,14 +41,14 @@ Human
 
 ### Relationships
 #### Rivals
-- University lecturer who you embarrassed by proving their theories on veterinary practices wrong in front of the entire faculty
+- Whilst at university, [Hana][1] embarressed her lecturer [Dena Colee][2] by proving her recognized veterinary theories wwrong in front of the entire faculty
 
 #### Enemies
 - None
 
 #### Contacts
- - Lieutenant Colonel Myers 
- - Alien (tbc)
+- Following her involvement on the assult on Esalin, [Hana][1] met [Lieutenant Colonel Myers][3] during her convalescense back on Jewell
+- During her time stationed on Foelen, [Hana][1] met [Arrymo River][4], a Chokari, who she helped to avoid being taken to Zhodani research facility
 
 #### Allies
 - None
@@ -88,3 +87,8 @@ Human
 5. Marine (Support), rank Captain, survived, ranked up, was stationed on Foelen to guard negotiations between the Zhodani Consulate and the Jewell Duchy relating to Psionic research, met and learned about Uplifted Dolphins who live there
 6. Marine (Support) Force Commander, survived, ranked up, when the negotiations between the Zhodani Consulate and the Jewell Dutchy fell apart due to findings about the methods the Zhodani were going to employ in their research, the Jewell Duchy Marines were ordered to capture and occupy Foelen, took part in that planetary assault and subsequent occupation
 7. Marine (Support), Leiutenant Colonel, didn't surivive, the Zhodani recaptured Foelen, and she barely escaped with her life from the chaos and was discharged for abandoning her post
+
+[1]: ./hana-suzuki.md 
+[2]: ./../npcs/dena-colee.md
+[3]: ./../npcs/lieutenant-colonel-myers.md 
+[4]: ./../npcs/arrymo-river.md

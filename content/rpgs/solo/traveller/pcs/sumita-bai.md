@@ -1,7 +1,6 @@
-+++
-date = '2026-04-29T20:10:07+01:00'
-title = 'Sumita Bai'
-+++
+---
+title: "Sumita Bai"
+---
 
 ### About
 #### Home Planet
@@ -50,13 +49,13 @@ Human
 - Ex lover
 
 #### Contacts
-- Hana Suzuki
-  - Whilst working as a diplomat for the Duke of Jewell was involved with placing Hana Suzuki on a peace keeping mission in Foelen
-- Jace Windu
-  - Often had to field questions from Jace Windu at press conferences relating to the ongoing negotiations between Jewell corporations and the Zhodani Consulate relating to who would have rights to carry out Psionic research on Foelen
-- John Strickland
-  - ??
-- 6 more...
+- Whilst working for a branch of the Imperial Secret Service (ISS), Sumita was often required to interact with the Jewel sectors black market elements in order to get information about the goings on in the Zhodani systems to the coreward side of the sector. One of these contacts was [John Strickland][1]
+- Whilst working as a diplomat for the Jewel Duchy, [Sumita][5] was involved with placing [Hana Suzuki][2] on a peace keeping mission on Foelen
+- Whilst working as a diplomat, often had to field questions from [Jace Windu][3] who was working for the Jewell press at the time, they sometimes met in bars for drinks outside of "work hours"
+- [Sumita][5] often had to field questions from [Jace Windu][3] at press conferences relating to the ongoing negotiations between Jewell corporations and the Zhodani Consulate about who would have rights to carry out Psionic research on Foelen
+- Although the Imperium at the Zhodani are in a cold war, agents of either sides secret services maintain communications channels in an effort to avoid misunderstandings leading to the breakout of wider conflicts, as such, [Sumita][5] was on contact with [Vorcex Lehat][6] a Zhodani agent at the Foelen Zhodani Secret Service (ZSS) office
+- [Nod][7] A trusted representative of the Chokari on Foelen
+- When working for the ISS, [Sumita][5] often had to procure materiele for various operations across the Jewell subsector, and she built up a strong working relationship with Piotr Zelin, a mid level manager at Louzy Metallium Inc, the largest mining corporation on Louzy
 
 #### Allies
 - None
@@ -90,8 +89,7 @@ Human
 
 ### Ships
 
-- Yacht
-  - pg 202
+- [Yacht][4]
   - 25% of mortgate paid off
   - Damaged thrusters (DM-1 to all pilot checks)
 
@@ -101,3 +99,11 @@ Human
 3. Noble (Diplomat), didn't survive, lightly injured during an attack on your delegation
 4. Agent (Intelligence), qualified, survived, built a network of contacts and advanced to Agent
 5. Agent (Intelligence), survived, had an awful breakup and gained an enemy, advanced to Field Agent
+
+[1]: ./john-strickland.md
+[2]: ./hana-suzuki.md
+[3]: ./jace-windu.md
+[4]: ./../ships/yacht.md
+[5]: ./sumita-bai.md
+[6]: ./../npcs/vorcex-lehad.md
+[7]: ./../npcs/nod.md

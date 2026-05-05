@@ -29,15 +29,6 @@
     <loc>http://localhost:1313/renovations/downstairs/downstairs/</loc>
     <lastmod>2026-04-29T20:10:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rpgs/solo/traveller/player-characters/hana-suzuki/</loc>
-    <lastmod>2026-04-29T20:10:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/solo/traveller/player-characters/jace-windu/</loc>
-    <lastmod>2026-04-29T20:10:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/solo/traveller/player-characters/john-strickland/</loc>
-    <lastmod>2026-04-29T20:10:07+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/renovations/loft/loft/</loc>
     <lastmod>2026-04-29T20:10:07+01:00</lastmod>
   </url><url>
@@ -50,22 +41,7 @@
     <loc>http://localhost:1313/renovations/</loc>
     <lastmod>2026-04-29T20:10:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rpgs/</loc>
-    <lastmod>2026-04-29T20:10:07+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/software-development/articles/screeps/</loc>
-    <lastmod>2026-04-29T20:10:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/solo/</loc>
-    <lastmod>2026-04-29T20:10:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/solo/traveller/player-characters/sumita-bai/</loc>
-    <lastmod>2026-04-29T20:10:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/solo/traveller/</loc>
-    <lastmod>2026-04-29T20:10:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/rpgs/solo/traveller/player-characters/</loc>
     <lastmod>2026-04-29T20:10:07+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/elves/alabaster-guardian/</loc>
@@ -73,6 +49,8 @@
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/beasts/albino-centipede/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/feugonauts/albino-ogre/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/solo/traveller/npcs/arrymo-river/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/lizardmen/arva/</loc>
   </url><url>
@@ -124,6 +102,8 @@
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/lizardmen/damadar-deodan/</loc>
   </url><url>
+    <loc>http://localhost:1313/rpgs/solo/traveller/npcs/dena-colee/</loc>
+  </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/beasts/dire-boar/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/beasts/deucadre/</loc>
@@ -170,17 +150,27 @@
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/lizardmen/goa/</loc>
   </url><url>
+    <loc>http://localhost:1313/rpgs/solo/traveller/pcs/hana-suzuki/</loc>
+  </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/fertilizer-to-bullets/gm-notes/helpers/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/</loc>
   </url><url>
+    <loc>http://localhost:1313/rpgs/solo/traveller/pcs/jace-windu/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/solo/traveller/npcs/jacquel-campbutl/</loc>
+  </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/fertilizer-to-bullets/player-characters/james-banning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/solo/traveller/pcs/john-strickland/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/lizardmen/kiru/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/beasts/kujibird/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/elves/lady-hedonia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/solo/traveller/npcs/lieutenant-colonel-myers/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/lizardmen/</loc>
   </url><url>
@@ -216,7 +206,11 @@
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/night-axe/</loc>
   </url><url>
+    <loc>http://localhost:1313/rpgs/solo/traveller/npcs/nod/</loc>
+  </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/notes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/solo/traveller/npcs/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/feugonauts/obsidian-blackguard/</loc>
   </url><url>
@@ -232,6 +226,8 @@
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/elves/orange-sludge/</loc>
   </url><url>
+    <loc>http://localhost:1313/rpgs/solo/traveller/pcs/</loc>
+  </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/fertilizer-to-bullets/player-characters/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/fertilizer-to-bullets/setting-notes/primer/</loc>
@@ -239,6 +235,8 @@
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/campaign/primer/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/solo/umerica/player-characters/ray/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/</loc>
   </url><url>
     <loc>http://localhost:1313/fishing/runswick/</loc>
   </url><url>
@@ -270,6 +268,8 @@
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/elves/singing-golem/</loc>
   </url><url>
+    <loc>http://localhost:1313/rpgs/solo/</loc>
+  </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/beasts/spine-dragon/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/night-axe/srok/</loc>
@@ -282,6 +282,8 @@
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/elemental/steam-elemental-lesser/</loc>
   </url><url>
+    <loc>http://localhost:1313/rpgs/solo/traveller/pcs/sumita-bai/</loc>
+  </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/feugonauts/svarku/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/notes/svarku-vision/</loc>
@@ -290,7 +292,11 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
+    <loc>http://localhost:1313/rpgs/solo/traveller/npcs/thaely-longarc/</loc>
+  </url><url>
     <loc>http://localhost:1313/thomas-cook-cv/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/solo/traveller/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/solo/traveller/session-logs/</loc>
   </url><url>
@@ -301,6 +307,8 @@
     <loc>http://localhost:1313/rpgs/solo/umerica/session-logs/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/beasts/violet-rasp/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rpgs/solo/traveller/npcs/vorcex-lehad/</loc>
   </url><url>
     <loc>http://localhost:1313/rpgs/multiplayer/hot-springs-island/stat-blocks/beasts/vyderac-feeder/</loc>
   </url><url>

@@ -1,7 +1,6 @@
-+++
-date = '2026-04-29T20:10:07+01:00'
-title = 'John Strickland'
-+++
+---
+title: "John Strickland"
+---
 
 ### About
 #### Home Planet
@@ -51,7 +50,8 @@ Human
 - Victim of a pirate operation
 
 #### Contacts
-- Black market fence
+- [John][1] was often contacted by a [Sumita Bai][3] a somewhat shady Imperial Secret Service (ISS) agent from Jewell and paid to give information about the goings on in the Zhodani arm of the Jewell subsector
+- [Thaely Longarc][2] A black market fence on Louzy
 
 #### Allies
 - None
@@ -87,6 +87,10 @@ Human
 2. Rogue (Pirate), ranked up 
 3. Rogue (Pirate) didn't rank up
 4. Rogue (Pirate) Crime lord considers you his protege, didn't rank up
-5.  Rogue (Pirate) had to call in favour to avoid getting imprisoned, ranked up
+5. Rogue (Pirate) had to call in favour to avoid getting imprisoned, ranked up
 6. Rogue (Pirate) ranked up
 7. Rogue (Pirate) didn't rank up
+
+[1]: ({{<relref "./john-strickland.md">}})
+[2]: ({{<relref "./../npcs/thaely-longarc.md">}})
+[3]: ({{<relref "./sumita-bai.md">}})
