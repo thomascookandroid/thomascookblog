@@ -56,21 +56,22 @@ article td {
     padding: 12px 15px !important;
 }
 
-/* Tighten spacing for H3 and smaller headings */
-article h3 {
-    margin-bottom: 0.1rem!important; /* Reduces the gap beneath */
-    margin-top: 2.0rem !important;    /* Keeps a nice gap above from previous text */
+article h1,
+article h2,
+article h3,
+article h4,
+article h5,
+article h6 {
+   margin-bottom: 0.1rem!important;
+   margin-top: 2.0rem!important;
 }
 
-article h4 {
-    margin-bottom: 0.0rem!important;
-    margin-top: 0.0rem!important;
-}
-
-/* Optional: If you want the text even closer, you can target the next paragraph */
+article h1 + p,
+article h2 + p,
 article h3 + p, 
 article h4 + p, 
-article h5 + p {
+article h5 + p,
+article h6 + p {
     margin-top: 0 !important;
 }
 

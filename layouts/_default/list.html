@@ -1,4 +1,5 @@
 {{ define "main" }}
+  <h1>{{ .Site.Title }}</h1>
   <article>
     {{ partial "breadcrumbs.html" . }}
   </article>
@@ -24,10 +25,10 @@
   {{ end }}
 
   {{ if .IsHome }}
-    {{ with .Site.GetPage "thomas-cook-cv.md" }}
-      <div class="cv-container">
+    {{ with .Site.GetPage "/software-development/articles/thomas-cook-cv.md" }}
+      <article class="cv-container">
         {{ .Content }}
-      </div>
+      </article>
     {{ end }}
   {{ end }}
 {{ end }}
