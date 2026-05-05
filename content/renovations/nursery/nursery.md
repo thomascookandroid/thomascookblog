@@ -24,6 +24,6 @@ I'm quite a handy guy it turns out, when I put my mind to it! Also, that frosted
 ![Nursery 3][4]
 
 [1]: ./../bathroom/bathroom.md
-[2]: https://drive.google.com/file/d/1KR6gLGrlEKGzuRdIPd9453ypNExmtnPZ/view?usp=drive_link "Foo"
+[2]: https://drive.google.com/file/d/1KR6gLGrlEKGzuRdIPd9453ypNExmtnPZ/view?usp=drive_link
 [3]: https://drive.google.com/file/d/1SxgEtxAvWxGc-gdXTWNfvxhZfUW449Xm/view?usp=drive_link
 [4]: https://drive.google.com/file/d/1pENdfFqW22cnBYNtBI1NVc4PCRXwGVFM/view?usp=drive_link
