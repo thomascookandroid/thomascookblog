@@ -1,10 +1,30 @@
 <nav aria-label="breadcrumb" class="breadcrumb">
   <ol>
-    {{ range .Ancestors.Reverse }}
-      <li>
-        <a href="{{ .RelPermalink }}">{{ if .IsHome }}Home{{ else }}{{ .Title }}{{ end }}</a>
-      </li>
+    {{ $ancestors := .Ancestors.Reverse }}
+    {{ $count := len $ancestors }}
+
+    {{ if gt $count 0 }}
+      {{/* 1. Always show the Root */}}
+      <li><a href="{{ (index $ancestors 0).RelPermalink }}">Home</a></li>
+
+      {{ if gt $count 2 }}
+        {{/* 2. Show "..." if there is more than one level between Home and the Parent */}}
+        {{/* This links to the parent of the parent (2 levels up) */}}
+        {{ $twoUp := index .Ancestors 1 }}
+        <li><a href="{{ $twoUp.RelPermalink }}">...</a></li>
+
+        {{/* 3. Show only the immediate Parent */}}
+        {{ range (last 1 $ancestors) }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      {{ else }}
+        {{/* 4. If only 1 or 2 levels deep, just show the ancestor normally */}}
+        {{ range (after 1 $ancestors) }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      {{ end }}
     {{ end }}
+
     <li class="active" aria-current="page">{{ .Title }}</li>
   </ol>
 </nav>
