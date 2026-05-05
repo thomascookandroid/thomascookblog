@@ -43,14 +43,14 @@ Then at the very end, we had contractors come in and fit Karndead flooring throu
 #### After 4
 ![After 4][11]
 
-[1] ./../bedroom/bedroom.md
-[2] https://drive.google.com/file/d/1wR8YX5ltQA3sz44-mW6Qd2Z_mglmDP-d/view?usp=drive_link
-[3] https://drive.google.com/file/d/1R6_yAXNfCXKn0fSDybKjgBs-RPm8Amfm/view?usp=drive_link
-[4] https://drive.google.com/file/d/1gaIl4wfXI0vBRWH-foM5Rb8l6lfBLU3z/view?usp=drive_link
-[5] https://drive.google.com/file/d/1cVoKN483L2PVQpof7e4pJVebj3t57Le2/view?usp=drive_link
-[6] https://drive.google.com/file/d/1WR5lWzxjp_KGMrTlQ4qnGYCvAxjh9X3l/view?usp=drive_link
-[7] https://drive.google.com/file/d/1W3uCevjjL_8izYgW7GPcUcYLmAuWonRg/view?usp=drive_link
-[8] https://drive.google.com/file/d/1EgT7-yAbWjxO71g9Nbhw5mlIFsRSauBF/view?usp=drive_link
-[9] https://drive.google.com/file/d/11R8KdYvPqfKx5-JJhsb4Enm4edok61r-/view?usp=drive_link
-[10] https://drive.google.com/file/d/1WwFr3DP1rPGewCFsfaXX5ZiABvEPoK15/view?usp=drive_link
-[11] https://drive.google.com/file/d/1krJelKNToNXCRcR8epJ295tWjYo2rBgq/view?usp=drive_link
+[1]: ./../bedroom/bedroom.md
+[2]: https://drive.google.com/file/d/1wR8YX5ltQA3sz44-mW6Qd2Z_mglmDP-d/view?usp=drive_link
+[3]: https://drive.google.com/file/d/1R6_yAXNfCXKn0fSDybKjgBs-RPm8Amfm/view?usp=drive_link
+[4]: https://drive.google.com/file/d/1gaIl4wfXI0vBRWH-foM5Rb8l6lfBLU3z/view?usp=drive_link
+[5]: https://drive.google.com/file/d/1cVoKN483L2PVQpof7e4pJVebj3t57Le2/view?usp=drive_link
+[6]: https://drive.google.com/file/d/1WR5lWzxjp_KGMrTlQ4qnGYCvAxjh9X3l/view?usp=drive_link
+[7]: https://drive.google.com/file/d/1W3uCevjjL_8izYgW7GPcUcYLmAuWonRg/view?usp=drive_link
+[8]: https://drive.google.com/file/d/1EgT7-yAbWjxO71g9Nbhw5mlIFsRSauBF/view?usp=drive_link
+[9]: https://drive.google.com/file/d/11R8KdYvPqfKx5-JJhsb4Enm4edok61r-/view?usp=drive_link
+[10]: https://drive.google.com/file/d/1WwFr3DP1rPGewCFsfaXX5ZiABvEPoK15/view?usp=drive_link
+[11]: https://drive.google.com/file/d/1krJelKNToNXCRcR8epJ295tWjYo2rBgq/view?usp=drive_link
