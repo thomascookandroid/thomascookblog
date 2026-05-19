@@ -11,6 +11,7 @@ title: "Yacht"
 - Computer: 5
 - Power Plant: Fusion, Power 90
 - Fuel Tanks: J-1, 8 Weeks Operation
+- Damaged Thrusters: DM-1 to all Pilot checks
 
 ### Systems
 - Docking Space (4 tons)
@@ -31,10 +32,10 @@ title: "Yacht"
 ### Ships Computer
 | Software Package | Bandwidth |
 | ---------------- | --------- |
-| Jump Control/1 |  |
-| Library |  |
-| Manoeuvre |  |
-| Intellect |  |
+| Jump Control/1 | 5 |
+| Library | 0 |
+| Manoeuvre | 0 |
+| Intellect | 0 |
 
 ### Weapons
 | Weapon | Mount | TL | Range | Damage | Ammo | Traits |
@@ -44,7 +45,7 @@ title: "Yacht"
 ### Sensors
 | Type | DM |
 | --------- | ---- |
-| Civilian Grade |  |
+| Civilian Grade | -2 | 
 
 ### Cargo (Max Capacity: 21 tons)
 | Name | Tons |
@@ -60,11 +61,11 @@ title: "Yacht"
 ### Costs
 | Reason | Cr |
 | ------ | -- |
-| Fuel (Full Tank) |  |
-| Mortgage |  |
-| Life Support |  |
-| Salaries |  |
-| Cost Per Maintainance Period |  |
+| Fuel (Full Tank) | 11KCr |
+| Mortgage | 187.5KCr |
+| Life Support | 13KCr |
+| Salaries | - |
+| Cost Per Maintainance Period | 37.5KCr |
 
 ### Drives
 | Type | Value |
@@ -72,4 +73,19 @@ title: "Yacht"
 | Manoeuvre Drive | 1 |
 | Reaction Drive | - |
 | Jump Drive | 1 |
+
+### Critical Hits
+| Area         | x | x | x | x | x | x |
+| ------------ | - | - | - | - | - | - |
+| Armour       |   |   |   |   |   |   |
+| Bridge       |   |   |   |   |   |   |
+| Cargo        |   |   |   |   |   |   |
+| Crew         |   |   |   |   |   |   |
+| Fuel         |   |   |   |   |   |   |
+| Hull         |   |   |   |   |   |   |
+| J-Drive      |   |   |   |   |   |   |
+| M-Drive      |   |   |   |   |   |   |
+| Power Plant  |   |   |   |   |   |   |
+| Sensors      |   |   |   |   |   |   |
+| Weapons      |   |   |   |   |   |   |
 

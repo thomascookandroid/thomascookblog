@@ -91,7 +91,7 @@ Human
 
 - [Yacht][4]
   - 25% of mortgate paid off
-  - Damaged thrusters (DM-1 to all pilot checks)
+    - Remaining Principle: MCr50.25
 
 ### Career
 1. Military Academy (Navy), became an alcoholic and failed to graduate
